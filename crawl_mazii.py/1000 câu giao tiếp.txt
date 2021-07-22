@@ -1,0 +1,4540 @@
+
+=================================
+Tiếng việt:Xin chào
+romaji:Kon ni chi wa
+Tiếng nhật:こんにちは
+
+=================================
+Tiếng việt:Chào buổi sáng
+romaji:Ohayo gozaimasu
+Tiếng nhật:おはようございます
+
+=================================
+Tiếng việt:Chào buổi chiều
+romaji:Kon ni chi wa
+Tiếng nhật:こんにちは
+
+=================================
+Tiếng việt:Chào buổi tối
+romaji:Kon ban wa
+Tiếng nhật:こんばんは
+
+=================================
+Tiếng việt:Chúc ngủ ngon
+romaji:Oyasumi nasai
+Tiếng nhật:おやすみなさい
+
+=================================
+Tiếng việt:Bạn có khỏe không?
+romaji:Genki desu ka
+Tiếng nhật:元気ですか
+
+=================================
+Tiếng việt:Cảm ơn, tôi khỏe
+romaji:Genki desu
+Tiếng nhật:元気です
+
+=================================
+Tiếng việt:Cảm ơn, tôi không khỏe lắm.
+romaji:Genkidewa arimasen
+Tiếng nhật:元気ではありません
+
+=================================
+Tiếng việt:Tên bạn là gì?
+romaji:Anatano namae wa nandesuka
+Tiếng nhật:あなたの名前は何ですか
+
+=================================
+Tiếng việt:Tên tôi là …
+romaji:Watashino namae wa .....desu
+Tiếng nhật:私の名前は.....です
+
+=================================
+Tiếng việt:Hẹn gặp lại
+romaji:Mata aimashou
+Tiếng nhật:また会いましょう
+
+=================================
+Tiếng việt:Tạm biệt
+romaji:Sayonara
+Tiếng nhật:さようなら
+
+=================================
+Tiếng việt:Rất vui được gặp bạn
+romaji:Hajimemashite
+Tiếng nhật:はじめまして
+
+=================================
+Tiếng việt:Thế còn bạn?
+romaji:Anata wa dou desuka
+Tiếng nhật:あなたはどうですか
+
+=================================
+Tiếng việt:Chúc may mắn
+romaji:Kooun wo inorimasu
+Tiếng nhật:幸運を祈ります
+
+=================================
+Tiếng việt:Bảo trọng
+romaji:Ki wo tsukete
+Tiếng nhật:気をつけて
+
+=================================
+Tiếng việt:Được một lúc rồi đấy
+romaji:Shibaraku desu
+Tiếng nhật:しばらくです
+
+=================================
+Tiếng việt:Bạn có nói được tiếng Anh không?
+romaji:Eigo ga hanasemasuka
+Tiếng nhật:英語が話せますか
+
+=================================
+Tiếng việt:Tôi biết nói một ít tiếng Nhật.
+romaji:Watashi wa sukoshi nihongo ga hanasemasu
+Tiếng nhật:私は少し日本語が話せます
+
+=================================
+Tiếng việt:Tôi không biết nói tiếng Nhật
+romaji:Watashi wa nihongo ga hanasemasen
+Tiếng nhật:私は日本語が話せません
+
+=================================
+Tiếng việt:Tôi đến từ (đất nước)…
+romaji:Watashi wa (country) no shusshindesu
+Tiếng nhật:私は（国）の出身です
+
+=================================
+Tiếng việt:Bạn bao nhiêu tuổi?
+romaji:Nansai desuka
+Tiếng nhật:何歳ですか
+
+=================================
+Tiếng việt:Tôi (ba mươi) tuổi
+romaji:Watashi wa (30) sai desu
+Tiếng nhật:私は（30）才（歳）です
+
+=================================
+Tiếng việt:Những dịp đặc biệt.
+romaji:Tokubetsu na kikai
+Tiếng nhật:特別な機会
+
+=================================
+Tiếng việt:Giáng sinh vui vẻ!
+romaji:Merii kurisumasu
+Tiếng nhật:メリークリスマス
+
+=================================
+Tiếng việt:Chúc mừng năm mới!
+romaji:Akemashite omedetou gozaimasu.
+Tiếng nhật:あけましておめでとうございます
+
+=================================
+Tiếng việt:Mừng ngày kỉ niệm
+romaji:Kinenbi omedetou.
+Tiếng nhật:記念日おめでとう
+
+=================================
+Tiếng việt:Mừng ngày lễ tình nhân
+romaji:Suteki na barentain o!
+Tiếng nhật:すてきなバレンタインを！
+
+=================================
+Tiếng việt:Chúc mừng ngày lễ Phục Sinh
+romaji:Suteki na iisutaa o!
+Tiếng nhật:すてきなイースターを！
+
+=================================
+Tiếng việt:Chúc mừng ngày của mẹ!
+romaji:Haha no hi omedetou
+Tiếng nhật:母の日おめでとう
+
+=================================
+Tiếng việt:Chúc mừng ngày của cha!
+romaji:Chichi no hi omedetou
+Tiếng nhật:父の日おめでとう
+
+=================================
+Tiếng việt:Chúc mừng sinh nhật
+romaji:Otanjoubi omedetou
+Tiếng nhật:おたんじょう日おめでとう
+
+=================================
+Tiếng việt:Chúc mừng sinh nhật muộn
+romaji:Okurebasenagara otanjoubi omedetou.
+Tiếng nhật:遅ればせながらおたんじょう日おめでとう
+
+=================================
+Tiếng việt:Ngày nào là lễ kỉ niệm của bạn vậy?
+romaji:Kinenbi wa itsu desu ka?
+Tiếng nhật:記念日はいつですか？
+
+=================================
+Tiếng việt:Vâng
+romaji:Hai
+Tiếng nhật:はい
+
+=================================
+Tiếng việt:Không
+romaji:Iie
+Tiếng nhật:いいえ
+
+=================================
+Tiếng việt:Bạn có hiểu không
+romaji:Wakarimasuka
+Tiếng nhật:分かりますか
+
+=================================
+Tiếng việt:Tôi không hiểu
+romaji:Wakarimasen
+Tiếng nhật:分かりません
+
+=================================
+Tiếng việt:Tôi hiểu
+romaji:Wakarimasu
+Tiếng nhật:分かります
+
+=================================
+Tiếng việt:Cảm ơn
+romaji:Arigatou
+Tiếng nhật:有難う/ありがとう
+
+=================================
+Tiếng việt:Làm ơn … (đề nghị)
+romaji:douzo
+Tiếng nhật:どうぞ....
+
+=================================
+Tiếng việt:Làm ơn… (hỏi)
+romaji:.....kudasai
+Tiếng nhật:.....下さい
+
+=================================
+Tiếng việt:Tôi xin lỗi
+romaji:Gomennasai
+Tiếng nhật:ごめんなさい
+
+=================================
+Tiếng việt:Làm ơn nói lại lần nữa
+romaji:Mouichido ittekudasai
+Tiếng nhật:もう一度言って下さい
+
+=================================
+Tiếng việt:Bạn có thể nói chậm hơn không?
+romaji:Yukkuri hanashite kudasai
+Tiếng nhật:ゆっくり話して下さい
+
+=================================
+Tiếng việt:Không, cảm ơn
+romaji:Arigatou,kekkou desu/ arigatou,daijyoubu desu
+Tiếng nhật:有難う、結構です/有難う、大丈夫です
+
+=================================
+Tiếng việt:Xin chúc mừng
+romaji:Omedetou/Omedetougozaimasu
+Tiếng nhật:おめでとう/おめでとうございます
+
+=================================
+Tiếng việt:Tôi lấy làm tiếc
+romaji:Okinodokuni
+Tiếng nhật:お気の毒に
+
+=================================
+Tiếng việt:Không sao đâu (Tôi ổn)
+romaji:Daijyobu desu
+Tiếng nhật:大丈夫です
+
+=================================
+Tiếng việt:Tôi không biết
+romaji:Wakarimasen
+Tiếng nhật:分かりません
+
+=================================
+Tiếng việt:Tôi không thích nó
+romaji:Sukide wa arimasen
+Tiếng nhật:好きではありません
+
+=================================
+Tiếng việt:Tôi thích nó
+romaji:sukidesu
+Tiếng nhật:好きです
+
+=================================
+Tiếng việt:Không có gì
+romaji:Dou itashimashite
+Tiếng nhật:どういたしまして
+
+=================================
+Tiếng việt:Tôi hiểu là…
+romaji:Watashi wa …..to rikai shimashita
+Tiếng nhật:私は.....と理解しました
+
+=================================
+Tiếng việt:Tôi nghĩ là …
+romaji:Watashi wa……to omoimasu
+Tiếng nhật:私は.....と思います
+
+=================================
+Tiếng việt:Tôi muốn …
+romaji:Watashi wa……shitai desu
+Tiếng nhật:私は.....したいです
+
+=================================
+Tiếng việt:Tôi thích …
+romaji:Watashi wa …..ga suki desu
+Tiếng nhật:私は.....が好きです
+
+=================================
+Tiếng việt:Làm ơn cho tôi mượn điện thoại của bạn được không?
+romaji:Dennwa wo tsukattemo iidesuka
+Tiếng nhật:電話を使ってもいいですか
+
+=================================
+Tiếng việt:Bạn có chắc không ?
+romaji:Hontou desuka
+Tiếng nhật:本当ですか
+
+=================================
+Tiếng việt:Bạn có nói được tiếng Anh không?
+romaji:Eigo ga hanasemasuka
+Tiếng nhật:英語が話せますか
+
+=================================
+Tiếng việt:Nó nghĩa là gì?
+romaji:Kore wa douiu imi desuka
+Tiếng nhật:これはどういう意味ですか
+
+=================================
+Tiếng việt:Từ này phát âm như thế nào?
+romaji:Kore wa donoyouni hatsuon shimasuka
+Tiếng nhật:これはどのように発音しますか
+
+=================================
+Tiếng việt:Bạn có thể vui lòng viết lại cho tôi bằng tiếng Nhật không?
+romaji:Nihonngo de kaite kuremasuka
+Tiếng nhật:日本語で書いてくれますか
+
+=================================
+Tiếng việt:Không, cảm ơn
+romaji:Arigatou,kekkou desu/ arigatou,daijyoubu desu
+Tiếng nhật:有難う、結構です/有難う、大丈夫です
+
+=================================
+Tiếng việt:Không, vậy là sai rồi
+romaji:Sore wa chigaimasu
+Tiếng nhật:それは違います
+
+=================================
+Tiếng việt:Đúng rồi
+romaji:Sonotouri desu
+Tiếng nhật:その通りです
+
+=================================
+Tiếng việt:Không có gì
+romaji:Mondai arimasen
+Tiếng nhật:問題ありません
+
+=================================
+Tiếng việt:Cứu!
+romaji:tasukete
+Tiếng nhật:助けて
+
+=================================
+Tiếng việt:Ai?
+romaji:dare desuka
+Tiếng nhật:誰ですか
+
+=================================
+Tiếng việt:Cái gì?
+romaji:nan desuka
+Tiếng nhật:何ですか
+
+=================================
+Tiếng việt:Bao nhiêu?
+romaji:ikutsu desuka
+Tiếng nhật:いくつですか
+
+=================================
+Tiếng việt:Bao nhiêu tiền
+romaji:donokurai desuka
+Tiếng nhật:どのくらいですか
+
+=================================
+Tiếng việt:Tại sao?
+romaji:naze desuka
+Tiếng nhật:なぜ/何故ですか
+
+=================================
+Tiếng việt:Tại sao không?
+romaji:naze dame desuka
+Tiếng nhật:なぜ(何故)だめですか
+
+=================================
+Tiếng việt:Cái nào?
+romaji:dochira desuka
+Tiếng nhật:どちらですか
+
+=================================
+Tiếng việt:Ở đâu?
+romaji:doko desuka
+Tiếng nhật:どこ/何処ですか
+
+=================================
+Tiếng việt:Khi nào?
+romaji:itsu desuka
+Tiếng nhật:いつですか
+
+=================================
+Tiếng việt:Bạn sinh ngày nào?
+romaji:anatano tanjyobi wa itsu desuka
+Tiếng nhật:あなたの誕生日はいつですか
+
+=================================
+Tiếng việt:Bạn đang làm gì?
+romaji:ima nani wo shitemasuka
+Tiếng nhật:今、何をしてますか
+
+=================================
+Tiếng việt:Bạn đang đi đâu?
+romaji:dokoni ittemasuka
+Tiếng nhật:何処に行ってますか
+
+=================================
+Tiếng việt:Tôi đang đi...
+romaji:watashi wa …..ni ittemasu
+Tiếng nhật:私は....に行ってます
+
+=================================
+Tiếng việt:Đây là cái gì?
+romaji:kore wa nan desuka
+Tiếng nhật:これは何ですか
+
+=================================
+Tiếng việt:Bạn có chắc chắn không
+romaji:jishin arimasuka
+Tiếng nhật:自信ありますか
+
+=================================
+Tiếng việt:Đừng quên...
+romaji:..... wo wasurenaide
+Tiếng nhật:.....を忘れないで
+
+=================================
+Tiếng việt:Xin lỗi
+romaji:sumimasen
+Tiếng nhật:すみません
+
+=================================
+Tiếng việt:Giữ gìn sức khỏe
+romaji:ki wo tsukete
+Tiếng nhật:気をつけて
+
+=================================
+Tiếng việt:Trước/ Trước khi
+romaji:izen ni / mae ni
+Tiếng nhật:以前に/前に
+
+=================================
+Tiếng việt:Tôi muốn đi mua sắm trước khi xem phim
+romaji:watashi wa eiga wo miru mae ni kaimono wo shitai desu
+Tiếng nhật:私は映画を見る前に買い物をしたいです
+
+=================================
+Tiếng việt:Sau/Sau đó
+romaji:ato de
+Tiếng nhật:後で
+
+=================================
+Tiếng việt:Tôi sẽ xem phim sau khi đi mua sắm.
+romaji:watashi wa kaimono wo shitekara eiga wo mimasu
+Tiếng nhật:私は買い物をしてから映画を見ます
+
+=================================
+Tiếng việt:Cho đến khi
+romaji:…made
+Tiếng nhật:.....まで
+
+=================================
+Tiếng việt:Tôi không phải đi đâu cho đến tận ngày mai
+romaji:watashi wa asu made ikanakutemo ii desu
+Tiếng nhật:私は明日まで行かなくてもいいです
+
+=================================
+Tiếng việt:Nhà vệ sinh ở đâu?
+romaji:toire wa doko desuka
+Tiếng nhật:トイレは何処ですか
+
+=================================
+Tiếng việt:Bạn có thích sống ở đây không?
+romaji:koko ni sundemasuka
+Tiếng nhật:ここに住んでいますか
+
+=================================
+Tiếng việt:Bạn có thích nơi này không?
+romaji:koko ga sukidesuka
+Tiếng nhật:ここが好きですか
+
+=================================
+Tiếng việt:Tôi thích nơi này.
+romaji:koko ga daisuki desu
+Tiếng nhật:ここが大好きです
+
+=================================
+Tiếng việt:Tôi đến đây để nghỉ lễ
+romaji:Watashi wa kyujitu koko ni imasu
+Tiếng nhật:私は休日ここに居ます
+
+=================================
+Tiếng việt:Đi công tác
+romaji:shigoto de
+Tiếng nhật:仕事で
+
+=================================
+Tiếng việt:Để học
+romaji:benkyou no tame
+Tiếng nhật:勉強のため
+
+=================================
+Tiếng việt:Đùa thôi mà!
+romaji:jyodan desu
+Tiếng nhật:冗談です
+
+=================================
+Tiếng việt:Đây là lần đầu tiên tôi đến Nhật Bản.
+romaji:nihon wa konkai hajimete desu
+Tiếng nhật:日本は今回初めてです
+
+=================================
+Tiếng việt:Chúng tôi đang đi nghỉ tuần trăng mật.
+romaji:watashitachi wa shinkonryokou chuu desu
+Tiếng nhật:私たちは新婚旅行中です
+
+=================================
+Tiếng việt:Không
+romaji:zero
+Tiếng nhật:ゼロ
+
+=================================
+Tiếng việt:Một
+romaji:ichi
+Tiếng nhật:一
+
+=================================
+Tiếng việt:Hai
+romaji:ni
+Tiếng nhật:二
+
+=================================
+Tiếng việt:Ba
+romaji:san
+Tiếng nhật:三
+
+=================================
+Tiếng việt:Bốn
+romaji:yon
+Tiếng nhật:四
+
+=================================
+Tiếng việt:Năm
+romaji:go
+Tiếng nhật:五
+
+=================================
+Tiếng việt:Sáu
+romaji:roku
+Tiếng nhật:六
+
+=================================
+Tiếng việt:Bảy
+romaji:nana
+Tiếng nhật:七
+
+=================================
+Tiếng việt:Tám
+romaji:hachi
+Tiếng nhật:八
+
+=================================
+Tiếng việt:Chín
+romaji:kyu
+Tiếng nhật:九
+
+=================================
+Tiếng việt:Mười
+romaji:jyu
+Tiếng nhật:十
+
+=================================
+Tiếng việt:Mười một
+romaji:jyu ichi
+Tiếng nhật:十一
+
+=================================
+Tiếng việt:Mười hai
+romaji:jyu ni
+Tiếng nhật:十二
+
+=================================
+Tiếng việt:Mười ba
+romaji:jyu san
+Tiếng nhật:十三
+
+=================================
+Tiếng việt:Mười bốn
+romaji:jyu yon
+Tiếng nhật:十四
+
+=================================
+Tiếng việt:Mười lăm (năm)
+romaji:jyu go
+Tiếng nhật:十五
+
+=================================
+Tiếng việt:Mười sáu
+romaji:jyu roku
+Tiếng nhật:十六
+
+=================================
+Tiếng việt:Mười bảy
+romaji:jyu nana
+Tiếng nhật:十七
+
+=================================
+Tiếng việt:Mười tám
+romaji:jyu hachi
+Tiếng nhật:十八
+
+=================================
+Tiếng việt:Mười chín
+romaji:jyu kyu
+Tiếng nhật:十九
+
+=================================
+Tiếng việt:Hai mươi
+romaji:nijyu
+Tiếng nhật:二十
+
+=================================
+Tiếng việt:Hai mươi mốt (một)
+romaji:nijyu ichi
+Tiếng nhật:二十一
+
+=================================
+Tiếng việt:Hai mươi hai
+romaji:nijyu ni
+Tiếng nhật:二十二
+
+=================================
+Tiếng việt:Hai mươi ba
+romaji:nijyu san
+Tiếng nhật:二十三
+
+=================================
+Tiếng việt:Hai mươi bốn
+romaji:nijyu yon
+Tiếng nhật:二十四
+
+=================================
+Tiếng việt:Hai mươi lăm (năm)
+romaji:nijyu go
+Tiếng nhật:二十五
+
+=================================
+Tiếng việt:Hai mươi sáu
+romaji:nijyu roku
+Tiếng nhật:二十六
+
+=================================
+Tiếng việt:Hai mươi bảy
+romaji:nijyu nana
+Tiếng nhật:二十七
+
+=================================
+Tiếng việt:Hai mươi tám
+romaji:nijyu hachi
+Tiếng nhật:二十八
+
+=================================
+Tiếng việt:Hai mươi chín
+romaji:nijyu kyu
+Tiếng nhật:二十九
+
+=================================
+Tiếng việt:Ba mươi
+romaji:sanjyu
+Tiếng nhật:三十
+
+=================================
+Tiếng việt:Bốn mươi
+romaji:yonjyu
+Tiếng nhật:四十
+
+=================================
+Tiếng việt:Năm mươi
+romaji:gojyu
+Tiếng nhật:五十
+
+=================================
+Tiếng việt:Sáu mươi
+romaji:rokujyu
+Tiếng nhật:六十
+
+=================================
+Tiếng việt:Bảy mươi
+romaji:nanajyu
+Tiếng nhật:七十
+
+=================================
+Tiếng việt:Tám mươi
+romaji:hachijyu
+Tiếng nhật:八十
+
+=================================
+Tiếng việt:Chín mươi
+romaji:kyujyu
+Tiếng nhật:九十
+
+=================================
+Tiếng việt:Một trăm
+romaji:hyaku
+Tiếng nhật:百
+
+=================================
+Tiếng việt:Một nghìn
+romaji:sen
+Tiếng nhật:千
+
+=================================
+Tiếng việt:Mười nghìn
+romaji:ichi man
+Tiếng nhật:一万
+
+=================================
+Tiếng việt:Trăm nghìn
+romaji:jyu man
+Tiếng nhật:十万
+
+=================================
+Tiếng việt:Một triệu
+romaji:hyaku man
+Tiếng nhật:百万
+
+=================================
+Tiếng việt:Đầu tiên / Thứ nhất (thứ tự)
+romaji:ichiban(me)/ikkai(me)
+Tiếng nhật:一番(目)/一回(目)
+
+=================================
+Tiếng việt:Thứ hai (thứ tự)
+romaji:ni ban(me)/ni kai(me)
+Tiếng nhật:二番(目)/二回(目)
+
+=================================
+Tiếng việt:Thứ ba (thứ tự)
+romaji:san ban(me)/san kai(me)
+Tiếng nhật:三番(目)/三回(目)
+
+=================================
+Tiếng việt:Thứ tư (thứ tự)
+romaji:yon ban(me)/yon kai(me)
+Tiếng nhật:四番(目)/四回(目)
+
+=================================
+Tiếng việt:Thứ năm (thứ tự)
+romaji:go ban(me)go kai(me)
+Tiếng nhật:五番(目)/五回(目)
+
+=================================
+Tiếng việt:Thứ sáu (thứ tự)
+romaji:roku ban(me)/rokkai(me)
+Tiếng nhật:六番(目)/六回(目)
+
+=================================
+Tiếng việt:Thứ bảy (thứ tự)
+romaji:nana ban(me)/nana kai(me)
+Tiếng nhật:七番(目)/七回(目)
+
+=================================
+Tiếng việt:Thứ tám (thứ tự)
+romaji:hachi ban( me)/hakkai(me)
+Tiếng nhật:八番(目)/八回(目)
+
+=================================
+Tiếng việt:Thứ chín (thứ tự)
+romaji:kyu  ban(me)/kyu kai(me)
+Tiếng nhật:九番(目)/九回(目)
+
+=================================
+Tiếng việt:Thứ mười (thứ tự)
+romaji:jyu ban(me)/jyukkai(me)
+Tiếng nhật:十番(目)/十回(目)
+
+=================================
+Tiếng việt:Mấy giờ rồi?
+romaji:nanji desuka
+Tiếng nhật:何時ですか
+
+=================================
+Tiếng việt:Bây giờ là 10 giờ.
+romaji:jyu ji desu
+Tiếng nhật:十時です
+
+=================================
+Tiếng việt:Bây giờ là 10 rưỡi
+romaji:jyu ji han desu/jyu ji sanjyu ppun desu
+Tiếng nhật:十時半です/十時三十分です
+
+=================================
+Tiếng việt:Bây giờ là 10h15
+romaji:jyu ji jyu go fun desu
+Tiếng nhật:十時十五分です
+
+=================================
+Tiếng việt:Bây giờ là 10h kém 15
+romaji:jyu ji jyu go fun mae desu
+Tiếng nhật:十時十五分前です
+
+=================================
+Tiếng việt:Sáng (chỉ giờ)
+romaji:gozen
+Tiếng nhật:午前
+
+=================================
+Tiếng việt:Tối (chỉ giờ)
+romaji:gogo
+Tiếng nhật:午後
+
+=================================
+Tiếng việt:1 tiếng đồng hồ
+romaji:ichi jikan
+Tiếng nhật:一時間
+
+=================================
+Tiếng việt:Nửa tiếng đồng hồ
+romaji:san jyu ppun
+Tiếng nhật:三十分
+
+=================================
+Tiếng việt:5 phút
+romaji:go fun
+Tiếng nhật:五分
+
+=================================
+Tiếng việt:2 giây
+romaji:ni byou
+Tiếng nhật:二秒
+
+=================================
+Tiếng việt:Mấy giờ thì bắt đầu?
+romaji:Nanji ni hajimarimasuka
+Tiếng nhật:何時に始まりますか
+
+=================================
+Tiếng việt:… bắt đầu vào lúc 9h sáng
+romaji:Gozen ku ji ni hajimarimasu
+Tiếng nhật:午前九時に始まります
+
+=================================
+Tiếng việt:… sẽ kéo dài mấy tiếng?
+romaji:nan jikann kakarimasuka
+Tiếng nhật:何時間かかりますか
+
+=================================
+Tiếng việt:… sẽ kéo dài mấy ngày?
+romaji:nan nichi kakarimasuka
+Tiếng nhật:何日かかりますか
+
+=================================
+Tiếng việt:Nửa đêm
+romaji:yonaka
+Tiếng nhật:夜中
+
+=================================
+Tiếng việt:Buổi trưa
+romaji:shougo/ohiru
+Tiếng nhật:正午/お昼
+
+=================================
+Tiếng việt:Hôm nay
+romaji:kyou
+Tiếng nhật:今日
+
+=================================
+Tiếng việt:Hôm qua
+romaji:kinou/sakujitu
+Tiếng nhật:昨日
+
+=================================
+Tiếng việt:Ngày mai
+romaji:ashita/asu
+Tiếng nhật:明日
+
+=================================
+Tiếng việt:Ngày kia
+romaji:asatte/myougonichi
+Tiếng nhật:明後日
+
+=================================
+Tiếng việt:Tối nay
+romaji:konya
+Tiếng nhật:今夜
+
+=================================
+Tiếng việt:Buổi sáng
+romaji:asa
+Tiếng nhật:朝
+
+=================================
+Tiếng việt:Buổi chiều
+romaji:gogo
+Tiếng nhật:午後
+
+=================================
+Tiếng việt:Buổi tối
+romaji:yoru
+Tiếng nhật:夜
+
+=================================
+Tiếng việt:Bây giờ
+romaji:ima
+Tiếng nhật:今
+
+=================================
+Tiếng việt:Sớm
+romaji:sugu
+Tiếng nhật:直ぐ
+
+=================================
+Tiếng việt:Tuần này
+romaji:konshu
+Tiếng nhật:今週
+
+=================================
+Tiếng việt:Tuần trước
+romaji:senshu
+Tiếng nhật:先週
+
+=================================
+Tiếng việt:Tuần tới
+romaji:Raishuu
+Tiếng nhật:来週
+
+=================================
+Tiếng việt:Cuối tuần này
+romaji:Konshuu matsu
+Tiếng nhật:今週末
+
+=================================
+Tiếng việt:Cuối tuần trước
+romaji:Senshuu matsu
+Tiếng nhật:先週末
+
+=================================
+Tiếng việt:Cuối tuần tới
+romaji:Raishuu matsu
+Tiếng nhật:来週末
+
+=================================
+Tiếng việt:Hôm nay là ngày thứ mấy
+romaji:kyou wa nan youbi desuka
+Tiếng nhật:今日は何曜日ですか
+
+=================================
+Tiếng việt:Thứ hai (ngày trong tuần)
+romaji:getsu youbi
+Tiếng nhật:月曜日
+
+=================================
+Tiếng việt:Thứ ba (ngày trong tuần)
+romaji:ka youbi
+Tiếng nhật:火曜日
+
+=================================
+Tiếng việt:Thứ tư (ngày trong tuần)
+romaji:sui youbi
+Tiếng nhật:水曜日
+
+=================================
+Tiếng việt:Thứ năm (ngày trong tuần)
+romaji:moku youbi
+Tiếng nhật:木曜日
+
+=================================
+Tiếng việt:Thứ sáu (ngày trong tuần)
+romaji:kin youbi
+Tiếng nhật:金曜日
+
+=================================
+Tiếng việt:Thứ bảy (ngày trong tuần)
+romaji:do youbi
+Tiếng nhật:土曜日
+
+=================================
+Tiếng việt:Chủ nhật (ngày trong tuần)
+romaji:nichi youbi
+Tiếng nhật:日曜日
+
+=================================
+Tiếng việt:Bây giờ là tháng mấy?
+romaji:kongetsu wa nan gatsu desuka
+Tiếng nhật:今月は何月ですか
+
+=================================
+Tiếng việt:Tháng một
+romaji:ichi gatsu
+Tiếng nhật:一月
+
+=================================
+Tiếng việt:Tháng hai
+romaji:ni gatsu
+Tiếng nhật:二月
+
+=================================
+Tiếng việt:Tháng ba
+romaji:san gatsu
+Tiếng nhật:三月
+
+=================================
+Tiếng việt:Tháng tư
+romaji:shi gatsu
+Tiếng nhật:四月
+
+=================================
+Tiếng việt:Tháng năm
+romaji:go gatsu
+Tiếng nhật:五月
+
+=================================
+Tiếng việt:Tháng sáu
+romaji:roku gatsu
+Tiếng nhật:六月
+
+=================================
+Tiếng việt:Tháng bảy
+romaji:shichi gatsu
+Tiếng nhật:七月
+
+=================================
+Tiếng việt:Tháng tám
+romaji:hachi gatsu
+Tiếng nhật:八月
+
+=================================
+Tiếng việt:Tháng chín
+romaji:ku gatsu
+Tiếng nhật:九月
+
+=================================
+Tiếng việt:Tháng mười
+romaji:jyu gatsu
+Tiếng nhật:十月
+
+=================================
+Tiếng việt:Tháng mười một
+romaji:jyu ichi gatsu
+Tiếng nhật:十一月
+
+=================================
+Tiếng việt:Tháng mười hai
+romaji:jyu ni gatsu
+Tiếng nhật:十二月
+
+=================================
+Tiếng việt:Tháng này
+romaji:kongetsu
+Tiếng nhật:今月
+
+=================================
+Tiếng việt:Tháng sau
+romaji:raigetsu
+Tiếng nhật:来月
+
+=================================
+Tiếng việt:Tháng trước
+romaji:Sengetsu
+Tiếng nhật:先月
+
+=================================
+Tiếng việt:Năm nay
+romaji:kotoshi
+Tiếng nhật:今年
+
+=================================
+Tiếng việt:Năm sau
+romaji:rainen
+Tiếng nhật:来年
+
+=================================
+Tiếng việt:Năm ngoái
+romaji:kyonen/sakunen
+Tiếng nhật:去年/昨年
+
+=================================
+Tiếng việt:Mùa xuân
+romaji:haru
+Tiếng nhật:春
+
+=================================
+Tiếng việt:Mùa hè
+romaji:natsu
+Tiếng nhật:夏
+
+=================================
+Tiếng việt:Mùa thu
+romaji:aki
+Tiếng nhật:秋
+
+=================================
+Tiếng việt:Mùa đông
+romaji:fuyu
+Tiếng nhật:冬
+
+=================================
+Tiếng việt:Đây là….ở đâu?
+romaji:….wa doko desuka
+Tiếng nhật:.....は何処ですか
+
+=================================
+Tiếng việt:Nó xa bao nhiêu?
+romaji:donokurai tooii desuka
+Tiếng nhật:どのくらい遠いですか
+
+=================================
+Tiếng việt:Tôi có thể đến đó bằng cách nào vậy?
+romaji:watasi wa douyatte ikeba iidesuka
+Tiếng nhật:私はどうやって行けばいいですか
+
+=================================
+Tiếng việt:Bạn có thể chỉ giúp tôi đây là đâu trên bản đồ không?
+romaji:soko ga dokoka chizu de oshiete kudasai
+Tiếng nhật:そこがどこか地図で教えて下さい
+
+=================================
+Tiếng việt:Phía Bắc
+romaji:kita
+Tiếng nhật:北
+
+=================================
+Tiếng việt:Phía Nam
+romaji:minami
+Tiếng nhật:南
+
+=================================
+Tiếng việt:Phía Đông
+romaji:higashi
+Tiếng nhật:東
+
+=================================
+Tiếng việt:Phía Tây
+romaji:nishi
+Tiếng nhật:西
+
+=================================
+Tiếng việt:Băng qua đường
+romaji:doro wo wataru
+Tiếng nhật:道路を渡る
+
+=================================
+Tiếng việt:Rẽ trái
+romaji:hidari ni magaru
+Tiếng nhật:左に曲がる
+
+=================================
+Tiếng việt:Rẽ phải
+romaji:Migi ni magaru
+Tiếng nhật:右に曲がる
+
+=================================
+Tiếng việt:Lên
+romaji:ue
+Tiếng nhật:上
+
+=================================
+Tiếng việt:Xuống
+romaji:shita
+Tiếng nhật:下
+
+=================================
+Tiếng việt:Đi thẳng
+romaji:massugu iku
+Tiếng nhật:真直ぐ行く
+
+=================================
+Tiếng việt:Trái
+romaji:hidari
+Tiếng nhật:左
+
+=================================
+Tiếng việt:Phải
+romaji:migi
+Tiếng nhật:右
+
+=================================
+Tiếng việt:Ở phía trước
+romaji:mae
+Tiếng nhật:前
+
+=================================
+Tiếng việt:Ở phía sau
+romaji:ushiro
+Tiếng nhật:後ろ
+
+=================================
+Tiếng việt:Phía dưới
+romaji:shita
+Tiếng nhật:下
+
+=================================
+Tiếng việt:Bên trên
+romaji:ue
+Tiếng nhật:上
+
+=================================
+Tiếng việt:Đối diện
+romaji:hantai
+Tiếng nhật:反対
+
+=================================
+Tiếng việt:Gần
+romaji:chikai/chikaku
+Tiếng nhật:近い/近く
+
+=================================
+Tiếng việt:Xa
+romaji:Tooku
+Tiếng nhật:遠く
+
+=================================
+Tiếng việt:Phía góc
+romaji:kado
+Tiếng nhật:角
+
+=================================
+Tiếng việt:Nó ở ngay đằng trước kia
+romaji:massugu iku
+Tiếng nhật:真直ぐ行く
+
+=================================
+Tiếng việt:Đây
+romaji:koko
+Tiếng nhật:ここ
+
+=================================
+Tiếng việt:Đó
+romaji:soko/asoko
+Tiếng nhật:そこ/あそこ
+
+=================================
+Tiếng việt:Đèn giao thông
+romaji:shingo
+Tiếng nhật:信号
+
+=================================
+Tiếng việt:Ở ngã tư đường
+romaji:kousaten
+Tiếng nhật:交差点
+
+=================================
+Tiếng việt:Sân bay
+romaji:kuukou
+Tiếng nhật:空港
+
+=================================
+Tiếng việt:Trạm xe buýt
+romaji:basu tei
+Tiếng nhật:バス停
+
+=================================
+Tiếng việt:Nhà ga / Trạm xe lửa
+romaji:densha no eki
+Tiếng nhật:電車の駅
+
+=================================
+Tiếng việt:Thông tin du lịch
+romaji:kankou annaijo
+Tiếng nhật:観光案内所
+
+=================================
+Tiếng việt:Cửa hàng bách hóa
+romaji:hyakkaten
+Tiếng nhật:百貨店
+
+=================================
+Tiếng việt:Ngân hàng
+romaji:ginko
+Tiếng nhật:銀行
+
+=================================
+Tiếng việt:Máy rút tiền
+romaji:ATM
+Tiếng nhật:ATM
+
+=================================
+Tiếng việt:Khách sạn
+romaji:hoteru
+Tiếng nhật:ホテル
+
+=================================
+Tiếng việt:Quán cà phê internet
+romaji:intaanetto kafe
+Tiếng nhật:インターネットカフェ
+
+=================================
+Tiếng việt:Chợ
+romaji:maaketto
+Tiếng nhật:マーケット
+
+=================================
+Tiếng việt:Đồn cảnh sát
+romaji:keisatsusho
+Tiếng nhật:警察署
+
+=================================
+Tiếng việt:Siêu thị
+romaji:suupaa
+Tiếng nhật:スーパー
+
+=================================
+Tiếng việt:Bưu điện
+romaji:yuubinkyoku
+Tiếng nhật:郵便局
+
+=================================
+Tiếng việt:Rạp chiếu phim
+romaji:eiga kan
+Tiếng nhật:映画館
+
+=================================
+Tiếng việt:Tiệm thuốc tây
+romaji:yakkyoku
+Tiếng nhật:薬局
+
+=================================
+Tiếng việt:Trường học
+romaji:gakko
+Tiếng nhật:学校
+
+=================================
+Tiếng việt:Nhà
+romaji:ie
+Tiếng nhật:家
+
+=================================
+Tiếng việt:5 phút đi bộ
+romaji:toho go fun
+Tiếng nhật:徒歩五分
+
+=================================
+Tiếng việt:Đến đó bằng xe taxi
+romaji:takushii de iku
+Tiếng nhật:タクシーで行く
+
+=================================
+Tiếng việt:Đường dành cho người đi bộ ở trên cao
+romaji:hodoukyou
+Tiếng nhật:歩道橋
+
+=================================
+Tiếng việt:Vạch qua đường cho người đi bộ
+romaji:oudan hodou
+Tiếng nhật:横断歩道
+
+=================================
+Tiếng việt:Cầu
+romaji:hashi
+Tiếng nhật:橋
+
+=================================
+Tiếng việt:Con đường
+romaji:douro
+Tiếng nhật:道路
+
+=================================
+Tiếng việt:Đường hầm
+romaji:tonneru
+Tiếng nhật:トンネル
+
+=================================
+Tiếng việt:Công viên
+romaji:kouen
+Tiếng nhật:公園
+
+=================================
+Tiếng việt:Nhà vệ sinh / Nhà tắm
+romaji:toire
+Tiếng nhật:トイレ
+
+=================================
+Tiếng việt:Nhà vệ sinh ở đâu?
+romaji:toire wa dokodesuka
+Tiếng nhật:トイレは何処ですか
+
+=================================
+Tiếng việt:Sân bay
+romaji:kuukou
+Tiếng nhật:空港
+
+=================================
+Tiếng việt:Tôi muốn đến Sân bay Narita
+romaji:watashi wa narita kuukou ni ikitai desu
+Tiếng nhật:私は成田空港に行きたいです
+
+=================================
+Tiếng việt:Chuyến bay
+romaji:furaito
+Tiếng nhật:フライト
+
+=================================
+Tiếng việt:Máy bay
+romaji:hikouki
+Tiếng nhật:飛行機
+
+=================================
+Tiếng việt:Tàu hỏa
+romaji:dennsha
+Tiếng nhật:電車
+
+=================================
+Tiếng việt:Nhà ga / Trạm xe lửa
+romaji:densha no eki
+Tiếng nhật:電車の駅
+
+=================================
+Tiếng việt:Tàu cao tốc
+romaji:shinkansen
+Tiếng nhật:新幹線
+
+=================================
+Tiếng việt:Đường xe lửa treo
+romaji:monoreeru
+Tiếng nhật:モノレール
+
+=================================
+Tiếng việt:Xe điện ngầm
+romaji:chikatetsu
+Tiếng nhật:地下鉄
+
+=================================
+Tiếng việt:Xe điện
+romaji:shiden
+Tiếng nhật:市電
+
+=================================
+Tiếng việt:Bạn có thể giúp tôi được không?
+romaji:tasuketekuremasuka/tetsudattekuremasuka
+Tiếng nhật:助けてくれますか／手伝ってくれますか
+
+=================================
+Tiếng việt:Tôi có thể mua vé ở đâu đây?
+romaji:dokode kippu ga.kaemasuka
+Tiếng nhật:何処で切符が買えますか
+
+=================================
+Tiếng việt:Vé
+romaji:chiketto / kippu
+Tiếng nhật:チケット/切符
+
+=================================
+Tiếng việt:Quầy bán vé
+romaji:kippu uriba
+Tiếng nhật:切符売り場
+
+=================================
+Tiếng việt:Máy bán vé
+romaji:kippu hambaiki
+Tiếng nhật:切符販売機
+
+=================================
+Tiếng việt:Vé 1 chiều
+romaji:katamichi
+Tiếng nhật:片道
+
+=================================
+Tiếng việt:Vé khứ hồi
+romaji:oofuku
+Tiếng nhật:往復
+
+=================================
+Tiếng việt:Vé trẻ em
+romaji:kodomo kippu
+Tiếng nhật:子供切符
+
+=================================
+Tiếng việt:Vé học sinh
+romaji:gakusei kippu
+Tiếng nhật:学生切符
+
+=================================
+Tiếng việt:Đây là ga nào?
+romaji:kono eki wa nan desuka
+Tiếng nhật:この駅は何ですか
+
+=================================
+Tiếng việt:Ga kế tiếp là ga nào?
+romaji:tsugino eki wa nan desuka
+Tiếng nhật:次の駅は何ですか
+
+=================================
+Tiếng việt:Tàu có dừng lại ở…?
+romaji:…..ni tomarimasuka
+Tiếng nhật:.....に停まりますか
+
+=================================
+Tiếng việt:Tôi có cần phải đổi tàu không?
+romaji:densha no norikae ga hitsuyou desuka
+Tiếng nhật:電車の乗換えが必要ですか
+
+=================================
+Tiếng việt:Đường này là đến đâu?
+romaji:….. wa nanisen de ikemasuka
+Tiếng nhật:……は何線で行けますか
+
+=================================
+Tiếng việt:Tôi muốn đi bằng tàu cao tốc
+romaji:watashi wa shinkansen de ikitai desu
+Tiếng nhật:私は新幹線で行きたいです
+
+=================================
+Tiếng việt:Xe điện ngầm gần nhất ở đâu?
+romaji:ichiban chikai chikatetsu wa dokodesuka
+Tiếng nhật:一番近い地下鉄はどこですか
+
+=================================
+Tiếng việt:Đây có phải là tàu nhanh không?
+romaji:chokko ressha desuka
+Tiếng nhật:直行列車ですか
+
+=================================
+Tiếng việt:Giới hạn tàu tốc hành
+romaji:tokkyuu ressha
+Tiếng nhật:特急電車
+
+=================================
+Tiếng việt:Tàu tốc hành
+romaji:kyuukou ressha/kaisoku ressha
+Tiếng nhật:急行電車／快速電車
+
+=================================
+Tiếng việt:Tàu nhanh đặc biệt
+romaji:tokubetsu kaisoku ressha
+Tiếng nhật:特別快速電車
+
+=================================
+Tiếng việt:Tàu nhanh mới
+romaji:shin kaisoku densha
+Tiếng nhật:新快速電車
+
+=================================
+Tiếng việt:Chuyến tàu nhanh
+romaji:kyusoku densha
+Tiếng nhật:急速電車
+
+=================================
+Tiếng việt:Chuyến tàu địa phương
+romaji:rookaru densha
+Tiếng nhật:ローカル電車
+
+=================================
+Tiếng việt:Toa tàu nào là toa ăn?
+romaji:shokudousha wa dono sharyou desuka
+Tiếng nhật:食堂車はどの車両ですか
+
+=================================
+Tiếng việt:Xe buýt
+romaji:basu
+Tiếng nhật:バス
+
+=================================
+Tiếng việt:Trạm xe buýt
+romaji:basu tei
+Tiếng nhật:バス停
+
+=================================
+Tiếng việt:Có phải chuyến xe này dừng lại ở…?
+romaji:kono basu wa .....de tomarimasuka
+Tiếng nhật:このバスは.....で停まりますか
+
+=================================
+Tiếng việt:Trạm tiếp theo là trạm nào?
+romaji:tsugini tomoru eki wa nan desu ka
+Tiếng nhật:次の駅は何ですか
+
+=================================
+Tiếng việt:Tôi muốn xuống xe ở….
+romaji:watashi wa ….de oritai desu
+Tiếng nhật:私は…..で降りたいです
+
+=================================
+Tiếng việt:Thuyền
+romaji:fune
+Tiếng nhật:船
+
+=================================
+Tiếng việt:Chuyến đi này kéo dài bao lâu?
+romaji:…..made donokurai kakarimasuka
+Tiếng nhật:….まで　どのくらいかかりますか
+
+=================================
+Tiếng việt:Đó có phải là thuyền tốc độ cao không?
+romaji:kousoku no fune wa arimasuka
+Tiếng nhật:高速の船はありますか
+
+=================================
+Tiếng việt:Tôi bị say sóng
+romaji:funayoi shitemasu
+Tiếng nhật:船酔いしてます
+
+=================================
+Tiếng việt:Ô tô
+romaji:kuruma
+Tiếng nhật:車
+
+=================================
+Tiếng việt:Xe cho thuê
+romaji:rentakaa
+Tiếng nhật:レンタカー
+
+=================================
+Tiếng việt:Tôi muốn thuê một chiếc ô tô
+romaji:watashi wa kuruma wo karitai desu
+Tiếng nhật:私は車を借りたいです
+
+=================================
+Tiếng việt:1 ngày hết bao nhiêu tiền?
+romaji:ichinichi ikura desuka
+Tiếng nhật:一日いくらですか
+
+=================================
+Tiếng việt:Một tuần hết bao nhiêu tiền
+romaji:isshuukan ikura desuka
+Tiếng nhật:一週間いくらですか
+
+=================================
+Tiếng việt:Nó có kèm theo bảo hiểm không?
+romaji:hoken komi desuka
+Tiếng nhật:保険込みですか
+
+=================================
+Tiếng việt:Taxi
+romaji:takushi
+Tiếng nhật:タクシー
+
+=================================
+Tiếng việt:Làm ơn bật đồng hồ tính tiền
+romaji:meetaa wo sutaato shite kudasai
+Tiếng nhật:メーターをスタートして下さい
+
+=================================
+Tiếng việt:Bao nhiêu tiền để tới…?
+romaji:…..made ikura desuka
+Tiếng nhật:…..までいくらですか
+
+=================================
+Tiếng việt:Làm ơn dừng lại ở đây. (Phương tiện)
+romaji:kokode tomete kudasai/kokode oroshite kudasai
+Tiếng nhật:ここで停めて下さい/ここで降ろして下さい
+
+=================================
+Tiếng việt:Làm ơn đợi ở đây
+romaji:kokode matte kudasai
+Tiếng nhật:ここで待ってください
+
+=================================
+Tiếng việt:Xe gắn máy
+romaji:baiku
+Tiếng nhật:バイク
+
+=================================
+Tiếng việt:Xe đạp
+romaji:jitensha
+Tiếng nhật:自転車
+
+=================================
+Tiếng việt:Tôi có cần mũ bảo hiểm không?
+romaji:herumetto ga hitsuyou desuka
+Tiếng nhật:ヘルメットが必要ですか
+
+=================================
+Tiếng việt:Đó có phải là bản đồ cho xe đạp không?
+romaji:jitensha you no chizu wa arimasuka
+Tiếng nhật:自転車用の地図はありますか
+
+=================================
+Tiếng việt:Tôi bị lạc
+romaji:michini mayottemasu
+Tiếng nhật:道に迷ってます
+
+=================================
+Tiếng việt:Bạn có bản đồ không?
+romaji:chizu wo mottemasuka
+Tiếng nhật:地図を持ってますか
+
+=================================
+Tiếng việt:Làm ơn cho tôi sử dụng điện thoại được không?
+romaji:dennwa wo karitemo iidesuka
+Tiếng nhật:電話を借りてもいいですか
+
+=================================
+Tiếng việt:Nhà vệ sinh ở đâu?
+romaji:toire wa dokodesuka
+Tiếng nhật:トイレは何処ですか
+
+=================================
+Tiếng việt:Khách sạn
+romaji:hoteru
+Tiếng nhật:ホテル
+
+=================================
+Tiếng việt:Khách sạn Capsule
+romaji:kapuseru hoteru
+Tiếng nhật:カプセルホテル
+
+=================================
+Tiếng việt:Nhà trọ
+romaji:ryou
+Tiếng nhật:寮
+
+=================================
+Tiếng việt:Nhà khách
+romaji:geshuku
+Tiếng nhật:下宿
+
+=================================
+Tiếng việt:Lữ quán có phong cách Nhật Bản
+romaji:minshuku
+Tiếng nhật:民宿
+
+=================================
+Tiếng việt:Khách sạn buồng kín gần đây nhất là ở đâu?
+romaji:ichiban chikai kapuseru hoteru wa dokodesuka
+Tiếng nhật:一番近いカプセルホテルはどこですか
+
+=================================
+Tiếng việt:Bạn có thể giới thiệu cho tôi 1 vài nơi thú vị không?
+romaji:dokoka iitokoro wo shoukai shitekuremasuka
+Tiếng nhật:どこかいい所を紹介してくれますか
+
+=================================
+Tiếng việt:Gần đây
+romaji:chikaku
+Tiếng nhật:近く
+
+=================================
+Tiếng việt:Giá rẻ
+romaji:yasui
+Tiếng nhật:安い
+
+=================================
+Tiếng việt:Trong thành phố
+romaji:shinai
+Tiếng nhật:市内
+
+=================================
+Tiếng việt:Tối nay có phòng trống không?
+romaji:konya heya wa aitemasuka
+Tiếng nhật:今夜、部屋は空いてますか
+
+=================================
+Tiếng việt:Phòng đơn
+romaji:shinguru
+Tiếng nhật:シングル
+
+=================================
+Tiếng việt:Phòng đôi
+romaji:tsuwin
+Tiếng nhật:ツイン
+
+=================================
+Tiếng việt:Gấp đôi
+romaji:daburu
+Tiếng nhật:ダブル
+
+=================================
+Tiếng việt:Phòng có buồng tắm trong phòng không?
+romaji:heyano nakani basuruumuga arimasuka
+Tiếng nhật:部屋の中にバスルームがありますか
+
+=================================
+Tiếng việt:Đó có an toàn không?
+romaji:anzen desuka
+Tiếng nhật:安全ですか
+
+=================================
+Tiếng việt:Có nước nóng không?
+romaji:oyu wa demasuka
+Tiếng nhật:お湯はでますか
+
+=================================
+Tiếng việt:Có lò sưởi không?
+romaji:danbou wa arimasuka
+Tiếng nhật:暖房はありますか
+
+=================================
+Tiếng việt:Khi nào bữa ăn sáng được phục vụ ?
+romaji:choushoku ga derunowa itsudesuka
+Tiếng nhật:朝食が出るのはいつですか
+
+=================================
+Tiếng việt:Một đêm bao nhiêu tiền
+romaji:ippaku ikura desuka
+Tiếng nhật:一泊いくらですか
+
+=================================
+Tiếng việt:Một tuần
+romaji:isshukan goto
+Tiếng nhật:一週間毎
+
+=================================
+Tiếng việt:Một tháng
+romaji:tsukizuki
+Tiếng nhật:月々
+
+=================================
+Tiếng việt:Tôi có thể xem nó không?
+romaji:misete kuremasuka
+Tiếng nhật:見せてくれますか
+
+=================================
+Tiếng việt:Tôi sẽ lấy nó
+romaji:sore wo itadaki masu
+Tiếng nhật:それをいただきます
+
+=================================
+Tiếng việt:Tôi có phòng đặt trước
+romaji:watashi wa heya wo yoyakushitemasu
+Tiếng nhật:私は部屋を予約しています
+
+=================================
+Tiếng việt:Tôi muốn làm thủ tục nhận phòng
+romaji:chekku in shimasu
+Tiếng nhật:チェックインします
+
+=================================
+Tiếng việt:Tôi muốn làm thủ tục trả phòng
+romaji:chekku auto shimasu
+Tiếng nhật:チェックアウトします
+
+=================================
+Tiếng việt:Khi nào thì phải trả phòng?
+romaji:chekku auto wa nanji desuka
+Tiếng nhật:チャックアウトは何時ですか
+
+=================================
+Tiếng việt:Tôi có thể để túi xách ở đây không?
+romaji:kokoni watashino kaban wo oitoitemoraemasuka
+Tiếng nhật:ここに私の鞄を置いといてもらえますか
+
+=================================
+Tiếng việt:Tôi có thể đổi phòng không?
+romaji:heya wo kaete moraemasuka
+Tiếng nhật:部屋を替えてもらえますか
+
+=================================
+Tiếng việt:Tôi có thể xem qua phòng đôi không?
+romaji:daburu no heya wo misete moraemasuka
+Tiếng nhật:ダブルの部屋を見せてもらえますか
+
+=================================
+Tiếng việt:Có ai để lại tin nhắn gì cho tôi không?
+romaji:watshini messeeji wa naidesuka
+Tiếng nhật:私にメッセージはありますか
+
+=================================
+Tiếng việt:Tôi để chìa khóa ở trong phòng rồi.
+romaji:kagi wo heya ni wasurete shimaimashita
+Tiếng nhật:鍵を部屋に忘れてしまいました
+
+=================================
+Tiếng việt:Tôi có thể đổi tiền ở đây không?
+romaji:koko de ryougae shitemoraemasuka
+Tiếng nhật:ここで両替してもらえますか
+
+=================================
+Tiếng việt:Tôi có thể sử dụng giặt ủi không?
+romaji:sentakuki wo tsukawasete moraemasuka
+Tiếng nhật:洗濯機を使わせてもらえますか
+
+=================================
+Tiếng việt:Tôi có thể dùng bếp không?
+romaji:daidokoro wo tsukawasete moraemasuka
+Tiếng nhật:台所を使わせてもらえますか
+
+=================================
+Tiếng việt:Tôi có thể dùng điện thoại không?
+romaji:denwa wo tsukawasete moraemasuka
+Tiếng nhật:電話を使わせてもらえますか
+
+=================================
+Tiếng việt:Có mạng Internet ở đây không?
+romaji:koko ni intaanetto wa arimasuka
+Tiếng nhật:ここにインターネットはありますか
+
+=================================
+Tiếng việt:Bạn có mạng không dây không?
+romaji:Wi-fi wa arimasuka
+Tiếng nhật:WI-FIはありますか
+
+=================================
+Tiếng việt:Mật khẩu là gì vậy?
+romaji:pasuwaado wa nandesuka
+Tiếng nhật:パスワードは何ですか
+
+=================================
+Tiếng việt:Tôi có thể mua thẻ Sim điện thoại ở đâu?
+romaji:dokode SIM kaado wo kaemasuka
+Tiếng nhật:どこでSIMカードを買えますか
+
+=================================
+Tiếng việt:Bạn có thể gọi taxi giúp tôi không?
+romaji:takushii wo yondekudasai
+Tiếng nhật:タクシーを呼んでください
+
+=================================
+Tiếng việt:Tôi đã có thời gian ở lại đây rất vui, cảm ơn bạn
+romaji:totemo iitokoro deshita,arigatou
+Tiếng nhật:とても良い所でした、有難う
+
+=================================
+Tiếng việt:Ăn sáng
+romaji:choushoku
+Tiếng nhật:朝食
+
+=================================
+Tiếng việt:Ăn trưa
+romaji:chushoku
+Tiếng nhật:昼食
+
+=================================
+Tiếng việt:Ăn tối
+romaji:yorugohan
+Tiếng nhật:夜ご飯
+
+=================================
+Tiếng việt:Ăn nhẹ
+romaji:oyatsu
+Tiếng nhật:おやつ
+
+=================================
+Tiếng việt:Thịt
+romaji:niku
+Tiếng nhật:肉
+
+=================================
+Tiếng việt:Thịt bò
+romaji:gyu niku
+Tiếng nhật:牛肉
+
+=================================
+Tiếng việt:Thịt gà
+romaji:tori niku
+Tiếng nhật:鶏肉
+
+=================================
+Tiếng việt:Trứng
+romaji:tamago
+Tiếng nhật:卵
+
+=================================
+Tiếng việt:Thịt vịt
+romaji:kamo
+Tiếng nhật:鴨
+
+=================================
+Tiếng việt:Thịt lợn
+romaji:buta niku
+Tiếng nhật:豚肉
+
+=================================
+Tiếng việt:Thịt cừu
+romaji:Hitsuji no niku
+Tiếng nhật:羊の肉
+
+=================================
+Tiếng việt:Hải sản
+romaji:shiifuudo/gyokairui
+Tiếng nhật:シーフード/魚介類
+
+=================================
+Tiếng việt:Cá
+romaji:sakana
+Tiếng nhật:魚
+
+=================================
+Tiếng việt:Tôm
+romaji:ebi
+Tiếng nhật:海老
+
+=================================
+Tiếng việt:Sò
+romaji:kai
+Tiếng nhật:貝
+
+=================================
+Tiếng việt:Cơm
+romaji:gohan/kome
+Tiếng nhật:ご飯/米
+
+=================================
+Tiếng việt:Đũa
+romaji:hashi
+Tiếng nhật:箸
+
+=================================
+Tiếng việt:Nĩa
+romaji:fooku
+Tiếng nhật:フォーク
+
+=================================
+Tiếng việt:Dao
+romaji:naifu
+Tiếng nhật:ナイフ
+
+=================================
+Tiếng việt:Thìa
+romaji:supun
+Tiếng nhật:スプーン
+
+=================================
+Tiếng việt:Cốc
+romaji:gurasu
+Tiếng nhật:グラス
+
+=================================
+Tiếng việt:Ly rượu
+romaji:wain gurasu
+Tiếng nhật:ワイングラス
+
+=================================
+Tiếng việt:Chén trà
+romaji:thiikappu
+Tiếng nhật:ティカップ
+
+=================================
+Tiếng việt:Ấm trà
+romaji:thiipotto
+Tiếng nhật:ティポット
+
+=================================
+Tiếng việt:Tô cơm
+romaji:ochawan
+Tiếng nhật:お茶碗
+
+=================================
+Tiếng việt:Tô canh
+romaji:owan
+Tiếng nhật:お椀
+
+=================================
+Tiếng việt:Dĩa
+romaji:osara
+Tiếng nhật:お皿
+
+=================================
+Tiếng việt:khăn ăn
+romaji:napukin
+Tiếng nhật:ナプキン
+
+=================================
+Tiếng việt:Tôi đói
+romaji:onaka ga suiteimasu
+Tiếng nhật:お腹が空いています
+
+=================================
+Tiếng việt:Tôi no rồi
+romaji:onaka ga  ippaidesu
+Tiếng nhật:お腹がいっぱいです
+
+=================================
+Tiếng việt:Rất ngon!
+romaji:totemo oishii desu
+Tiếng nhật:とても美味しいです
+
+=================================
+Tiếng việt:Tôi thích món này
+romaji:watashi wa kono ryouri ga daisuki desu
+Tiếng nhật:私はこの料理が大好きです
+
+=================================
+Tiếng việt:Món này tên là gì?
+romaji:nanto iimasuka
+Tiếng nhật:何と言いますか
+
+=================================
+Tiếng việt:Làm ơn cho tôi 1 bàn dành cho 2 người
+romaji:futariyou no seki ga ii desu
+Tiếng nhật:二人用の席がいいです
+
+=================================
+Tiếng việt:Làm ơn cho tôi thực đơn
+romaji:menyuu wo kudasai
+Tiếng nhật:メニューを下さい
+
+=================================
+Tiếng việt:Bạn có thực đơn bằng tiếng Anh không?
+romaji:eigo no menyuu wa arimasuka
+Tiếng nhật:英語のメニューはありますか
+
+=================================
+Tiếng việt:Bạn có thể giới thiệu vài món được không?
+romaji:dore ga osusume desuka
+Tiếng nhật:どれがお勧めですか
+
+=================================
+Tiếng việt:Ở đây có món gì ngon?
+romaji:koko wa nani ga oishiidesuka
+Tiếng nhật:ここは何が美味しいですか
+
+=================================
+Tiếng việt:Tôi có thể gọi 1 số món ăn không?
+romaji:chuumon shitemo iidesuka
+Tiếng nhật:注文してもいいですか
+
+=================================
+Tiếng việt:Tôi không ăn thịt
+romaji:watashi wa niku wo tabemasen
+Tiếng nhật:私は肉を食べません
+
+=================================
+Tiếng việt:Tôi không ăn trứng
+romaji:watashi wa tamago wo tabemasen
+Tiếng nhật:私は卵を食べません
+
+=================================
+Tiếng việt:Tôi bị dị ứng với…
+romaji:watashi wa .....no arerugii desu
+Tiếng nhật:私は....のアレルギーです
+
+=================================
+Tiếng việt:Các loại hạt
+romaji:nattsu
+Tiếng nhật:ナッツ
+
+=================================
+Tiếng việt:Đậu
+romaji:piinattsu
+Tiếng nhật:ピーナッツ
+
+=================================
+Tiếng việt:Bơ
+romaji:bathaa
+Tiếng nhật:バター
+
+=================================
+Tiếng việt:Các sản phẩm từ sữa
+romaji:nyuuseihin
+Tiếng nhật:乳製品
+
+=================================
+Tiếng việt:Gluten
+romaji:guruten
+Tiếng nhật:グルテン
+
+=================================
+Tiếng việt:Chất béo Gelatin
+romaji:zerachin
+Tiếng nhật:ゼラチン
+
+=================================
+Tiếng việt:Mật ong
+romaji:hachimitsu
+Tiếng nhật:はちみつ
+
+=================================
+Tiếng việt:Mì chính / bột ngọt
+romaji:ajinomoto
+Tiếng nhật:味の素
+
+=================================
+Tiếng việt:Tôi muốn ăn nó kèm với …
+romaji:......wo tsukete onegaishimasu
+Tiếng nhật:.....を付けてお願いします
+
+=================================
+Tiếng việt:Tôi không muốn ăn nó kèm với
+romaji:.....wo nukide onegaishimasu
+Tiếng nhật:....を抜きでお願いします
+
+=================================
+Tiếng việt:Tôi là người ăn chay
+romaji:watashi wa bejitarian desu
+Tiếng nhật:私はベジタリアンです
+
+=================================
+Tiếng việt:Bạn có thích đồ ăn chay không?
+romaji:bejitarian no ryouri wa arimasuka
+Tiếng nhật:ベジタリアンの料理はありますか
+
+=================================
+Tiếng việt:Rau
+romaji:yasai
+Tiếng nhật:野菜
+
+=================================
+Tiếng việt:Làm ơn cho tôi hóa đơn
+romaji:okaikei shitekudasai
+Tiếng nhật:お会計して下さい
+
+=================================
+Tiếng việt:Nó là phí dịch vụ?
+romaji:saabisuryoukomi desuka
+Tiếng nhật:サービ料込みですか
+
+=================================
+Tiếng việt:Làm ơn cho tôi lấy hóa đơn
+romaji:okaike onegaishimasu
+Tiếng nhật:お会計お願いします
+
+=================================
+Tiếng việt:Mang theo / Mang về nhà
+romaji:omochikaeri
+Tiếng nhật:お持ち帰り
+
+=================================
+Tiếng việt:Đồ uống
+romaji:nomu
+Tiếng nhật:飲む
+
+=================================
+Tiếng việt:Đồ ăn
+romaji:taberu
+Tiếng nhật:食べる
+
+=================================
+Tiếng việt:Thức ăn
+romaji:ryouri/shokuji
+Tiếng nhật:料理/食事
+
+=================================
+Tiếng việt:Nhà hàng
+romaji:resutoran
+Tiếng nhật:レストラン
+
+=================================
+Tiếng việt:Đặt bàn
+romaji:yoyaku suru
+Tiếng nhật:予約する
+
+=================================
+Tiếng việt:Món này thật là ngon
+romaji:kore wa oishiidesu
+Tiếng nhật:これは美味しいです
+
+=================================
+Tiếng việt:Nóng (nhiệt độ)
+romaji:atsui
+Tiếng nhật:熱い
+
+=================================
+Tiếng việt:Lạnh
+romaji:tsumetai
+Tiếng nhật:冷たい
+
+=================================
+Tiếng việt:Thơm ngon
+romaji:oishii
+Tiếng nhật:美味しい
+
+=================================
+Tiếng việt:Hương vị
+romaji:aji
+Tiếng nhật:味
+
+=================================
+Tiếng việt:Thơm
+romaji:amai
+Tiếng nhật:甘い
+
+=================================
+Tiếng việt:Mặn
+romaji:shoppai
+Tiếng nhật:しょっぱい
+
+=================================
+Tiếng việt:Chua
+romaji:suppai
+Tiếng nhật:酸っぱい
+
+=================================
+Tiếng việt:Nóng (cay)
+romaji:karai
+Tiếng nhật:辛い
+
+=================================
+Tiếng việt:Không ngon miệng
+romaji:usuaji/aji ga nai
+Tiếng nhật:薄味/味がない
+
+=================================
+Tiếng việt:Ớn
+romaji:abirappoi
+Tiếng nhật:脂っぽい
+
+=================================
+Tiếng việt:Làm ơn cho tôi ít đường?
+romaji:satou wo moraemasuka
+Tiếng nhật:砂糖をもらえますか
+
+=================================
+Tiếng việt:Đường
+romaji:satou
+Tiếng nhật:砂糖
+
+=================================
+Tiếng việt:Muối
+romaji:shio
+Tiếng nhật:塩
+
+=================================
+Tiếng việt:Tiêu
+romaji:koshou
+Tiếng nhật:こしょう
+
+=================================
+Tiếng việt:Nước sốt
+romaji:sousu
+Tiếng nhật:ソース
+
+=================================
+Tiếng việt:Tương
+romaji:shouyu
+Tiếng nhật:醤油
+
+=================================
+Tiếng việt:Tỏi
+romaji:ninniku
+Tiếng nhật:にんにく
+
+=================================
+Tiếng việt:Gừng
+romaji:shouga
+Tiếng nhật:生姜
+
+=================================
+Tiếng việt:Ớt
+romaji:tougarashi
+Tiếng nhật:唐辛子
+
+=================================
+Tiếng việt:Rong biển
+romaji:nori
+Tiếng nhật:海苔
+
+=================================
+Tiếng việt:Hạt mè
+romaji:goma
+Tiếng nhật:胡麻
+
+=================================
+Tiếng việt:Cải ngựa xanh (Mù tạt)
+romaji:wasabi
+Tiếng nhật:わさび
+
+=================================
+Tiếng việt:Canh
+romaji:oshiru
+Tiếng nhật:お汁
+
+=================================
+Tiếng việt:Xà lách
+romaji:sarada
+Tiếng nhật:サラダ
+
+=================================
+Tiếng việt:Mì
+romaji:men
+Tiếng nhật:麺
+
+=================================
+Tiếng việt:Lẩu
+romaji:nabe
+Tiếng nhật:鍋
+
+=================================
+Tiếng việt:Món tráng miệng
+romaji:dezaato
+Tiếng nhật:デザート
+
+=================================
+Tiếng việt:Vui lòng cho nhiều nước
+romaji:mizu wo motto kudasai
+Tiếng nhật:水をもっと下さい
+
+=================================
+Tiếng việt:Vui lòng cho chai bia loại lớn
+romaji:biiru no dai kudasai
+Tiếng nhật:ビールの大、下さい
+
+=================================
+Tiếng việt:Vui lòng cho 2 chai bia loại vừa
+romaji:biiru no chuu rutatsu kudasai
+Tiếng nhật:ビールの中、2つ下さい
+
+=================================
+Tiếng việt:Bia
+romaji:biiru
+Tiếng nhật:ビール
+
+=================================
+Tiếng việt:Cà phê
+romaji:koohii
+Tiếng nhật:コーヒー
+
+=================================
+Tiếng việt:Trà
+romaji:koucha
+Tiếng nhật:紅茶
+
+=================================
+Tiếng việt:Trà xanh
+romaji:ryokucha
+Tiếng nhật:緑茶
+
+=================================
+Tiếng việt:Trà hoa cúc
+romaji:kikucha
+Tiếng nhật:菊茶
+
+=================================
+Tiếng việt:Trà lài
+romaji:jyasumintii
+Tiếng nhật:ジャスミンティ
+
+=================================
+Tiếng việt:Nước
+romaji:mizu
+Tiếng nhật:水
+
+=================================
+Tiếng việt:Nước suối
+romaji:mineraru wootaa
+Tiếng nhật:ミネラルウォーター
+
+=================================
+Tiếng việt:Nước khoáng
+romaji:tansan no mineraru wootaa
+Tiếng nhật:炭酸のミネラルウォーター
+
+=================================
+Tiếng việt:Thức uống có cồn
+romaji:arukoru rui
+Tiếng nhật:アルコール類
+
+=================================
+Tiếng việt:Rượu Whisky
+romaji:uisukii
+Tiếng nhật:ウイスキー
+
+=================================
+Tiếng việt:Rượu mạnh
+romaji:burandee
+Tiếng nhật:ブランデー
+
+=================================
+Tiếng việt:Rượu sâm banh
+romaji:shannpan
+Tiếng nhật:シャンパン
+
+=================================
+Tiếng việt:Rượu vang đỏ
+romaji:aka wain
+Tiếng nhật:赤ワイン
+
+=================================
+Tiếng việt:Rượu vang trắng
+romaji:shiro wain
+Tiếng nhật:白ワイン
+
+=================================
+Tiếng việt:Rượu mận
+romaji:umeshu
+Tiếng nhật:梅酒
+
+=================================
+Tiếng việt:Sake ướp lạnh
+romaji:reishu
+Tiếng nhật:冷酒
+
+=================================
+Tiếng việt:Sake ấm
+romaji:atsukan
+Tiếng nhật:熱燗
+
+=================================
+Tiếng việt:Rượu Shochu
+romaji:shouchuu
+Tiếng nhật:焼酎
+
+=================================
+Tiếng việt:Cocktail
+romaji:kakuteru
+Tiếng nhật:カクテル
+
+=================================
+Tiếng việt:Sữa
+romaji:gyunyuu/miruku
+Tiếng nhật:牛乳/ミルク
+
+=================================
+Tiếng việt:Nước trái cây
+romaji:jyuusu
+Tiếng nhật:ジュース
+
+=================================
+Tiếng việt:Nước cam
+romaji:orenji jyuusu
+Tiếng nhật:オレンジジュース
+
+=================================
+Tiếng việt:Vui lòng không đá
+romaji:aisu nashi de onegaishimasu
+Tiếng nhật:アイス無しでお願いします
+
+=================================
+Tiếng việt:Vui lòng có đá
+romaji:aisu de onegai shimasu
+Tiếng nhật:アイスでお願いします
+
+=================================
+Tiếng việt:Chúc mừng!
+romaji:kannpai
+Tiếng nhật:乾杯
+
+=================================
+Tiếng việt:Cạn ly!
+romaji:zennbu nonde
+Tiếng nhật:全部飲んで
+
+=================================
+Tiếng việt:Tôi cảm thấy đã say
+romaji:watashi wa yoimashita
+Tiếng nhật:私は酔いました
+
+=================================
+Tiếng việt:Tôi đã có quá nhiều đồ uống
+romaji:watashi wa nomisugimashita
+Tiếng nhật:私は飲み過ぎました
+
+=================================
+Tiếng việt:Nhà vệ sinh ở đâu?
+romaji:toire wa dokodesuka
+Tiếng nhật:トイレは何処ですか
+
+=================================
+Tiếng việt:Có sự nhầm lẫn trong hóa đơn
+romaji:Seikyuusho ni machigai ga arimasu.
+Tiếng nhật:請求書に間違いがあります。
+
+=================================
+Tiếng việt:Nó là phí dịch vụ?
+romaji:Saabisuryou wa hukumarete imasu ka?
+Tiếng nhật:サービス料は含まれていますか？
+
+=================================
+Tiếng việt:Giữ lấy tiền thừa
+romaji:Otsuri wa totte oite kudasai.
+Tiếng nhật:お釣りはとっておいてください。
+
+=================================
+Tiếng việt:Trung tâm mua sắm gần nhất ở đâu?
+romaji:ichiban chikai hyakkaten wa dokodesuka
+Tiếng nhật:一番近い百貨店は何処ですか
+
+=================================
+Tiếng việt:Cửa hàng đồ cổ
+romaji:kottouhinya
+Tiếng nhật:骨董品屋
+
+=================================
+Tiếng việt:Chợ
+romaji:maaketto
+Tiếng nhật:マーケット
+
+=================================
+Tiếng việt:Siêu thị
+romaji:suupaa
+Tiếng nhật:スーパー
+
+=================================
+Tiếng việt:Giá của nó là bao nhiêu?
+romaji:sore wa ikura desuka
+Tiếng nhật:それはいくらですか
+
+=================================
+Tiếng việt:Có thể giá giảm xuống?
+romaji:nedan wo kaitekuremasuka
+Tiếng nhật:値段を書いてくれますか
+
+=================================
+Tiếng việt:Bạn có thể giảm giá nó nữa không?
+romaji:yasuku shitekuremasuka
+Tiếng nhật:安くしてくれますか
+
+=================================
+Tiếng việt:Giảm giá
+romaji:disukaunto
+Tiếng nhật:ディスカウント
+
+=================================
+Tiếng việt:Bạn có thể sử dụng thẻ tín dụng?
+romaji:kurejittokaado wa tsukaemasuka
+Tiếng nhật:クレジットカードは使えますか
+
+=================================
+Tiếng việt:Thẻ ghi nợ
+romaji:debittokaado
+Tiếng nhật:デビットカード
+
+=================================
+Tiếng việt:Tấm séc người đi du lịch
+romaji:toraberaazu chekku
+Tiếng nhật:トラベラーズチェック
+
+=================================
+Tiếng việt:Cho tôi một chiếc túi?
+romaji:housou shitemoraemasuka
+Tiếng nhật:包装してもらえますか
+
+=================================
+Tiếng việt:Tôi chỉ đi xem
+romaji:miteirudakedesu
+Tiếng nhật:見いてるだけです
+
+=================================
+Tiếng việt:Nó quá đắt
+romaji:takasugimasu
+Tiếng nhật:高過ぎます
+
+=================================
+Tiếng việt:Nó rất rẻ
+romaji:totemo yasuidesu
+Tiếng nhật:とても安いです
+
+=================================
+Tiếng việt:Bạn có màu khác không?
+romaji:chigau iro wa arimasuka
+Tiếng nhật:違う色はありますか
+
+=================================
+Tiếng việt:Bạn có size lớn hơn không?
+romaji:ookii saizu wa arimasuka
+Tiếng nhật:大きいサイズはありますか
+
+=================================
+Tiếng việt:Bạn có size nhỏ hơn không?
+romaji:chiisai saizu wa ariasuka
+Tiếng nhật:小さいサイズはありますか
+
+=================================
+Tiếng việt:Tôi có thể thử nó?
+romaji:shichaku dekimasuka
+Tiếng nhật:試着できますか
+
+=================================
+Tiếng việt:Hơi chật / Hơi nhỏ
+romaji:sukoshi kitsui desu
+Tiếng nhật:少しきついです
+
+=================================
+Tiếng việt:Hơi rộng
+romaji:sukoshi yurui desu/sukoshi ookii desu
+Tiếng nhật:少しゆるいです/少し大きいです
+
+=================================
+Tiếng việt:Bạn có cái mới nào không?
+romaji:atarashii mono wa arimasuka
+Tiếng nhật:新しい物はありますか
+
+=================================
+Tiếng việt:Ở đâu là thu ngân?
+romaji:reji wa dokodesuka
+Tiếng nhật:レジは何処ですか
+
+=================================
+Tiếng việt:Tôi thanh toán tiền ở đâu?
+romaji:dokode shiharaimasuka
+Tiếng nhật:何処で支払いますか
+
+=================================
+Tiếng việt:Quá ngắn
+romaji:mijikasugiru
+Tiếng nhật:短すぎる
+
+=================================
+Tiếng việt:Quá dài
+romaji:nagasugiru
+Tiếng nhật:長すぎる
+
+=================================
+Tiếng việt:Tôi sẽ lấy cái này
+romaji:kore wo itadakimasu/kore wo moraimasu
+Tiếng nhật:これを頂きます/これをもらいます
+
+=================================
+Tiếng việt:Tôi không muốn túi xách
+romaji:fukuro wa irimasen
+Tiếng nhật:袋は要りません
+
+=================================
+Tiếng việt:Vui lòng, Tôi cần một chiếc túi?
+romaji:fukuro wo kudasai
+Tiếng nhật:袋を下さい
+
+=================================
+Tiếng việt:Tôi đang tìm…
+romaji:watashi wa ....wo sagashite imasu
+Tiếng nhật:私は......を探しています
+
+=================================
+Tiếng việt:Quà tặng
+romaji:purezento
+Tiếng nhật:プレゼント
+
+=================================
+Tiếng việt:Dây thắt lưng
+romaji:beruto
+Tiếng nhật:ベルト
+
+=================================
+Tiếng việt:Mũ
+romaji:boushi
+Tiếng nhật:帽子
+
+=================================
+Tiếng việt:Váy đầm
+romaji:dresu/fuku
+Tiếng nhật:ドレス/服
+
+=================================
+Tiếng việt:Áo sơ mi
+romaji:shatsu
+Tiếng nhật:シャツ
+
+=================================
+Tiếng việt:Giày
+romaji:shuuzu/kutsu
+Tiếng nhật:シューズ / 靴
+
+=================================
+Tiếng việt:Dép
+romaji:sandaru
+Tiếng nhật:サンダル
+
+=================================
+Tiếng việt:Vớ
+romaji:sokkusu/kutsushita
+Tiếng nhật:ソックス/ 靴下
+
+=================================
+Tiếng việt:Quần shorts
+romaji:pantsu
+Tiếng nhật:パンツ
+
+=================================
+Tiếng việt:Váy ngắn
+romaji:sukaato
+Tiếng nhật:スカート
+
+=================================
+Tiếng việt:khăn quàng cổ
+romaji:sukaafu
+Tiếng nhật:スカーフ
+
+=================================
+Tiếng việt:Áo khoác
+romaji:jaketto
+Tiếng nhật:ジャケット
+
+=================================
+Tiếng việt:Áo dạ
+romaji:kooto
+Tiếng nhật:コート
+
+=================================
+Tiếng việt:Giày bốt
+romaji:buutsu
+Tiếng nhật:ブーツ
+
+=================================
+Tiếng việt:Quần áo
+romaji:irui / youfuku
+Tiếng nhật:衣類／洋服
+
+=================================
+Tiếng việt:Đồ bơi
+romaji:mizugi
+Tiếng nhật:水着
+
+=================================
+Tiếng việt:Đồ lót
+romaji:shitagi
+Tiếng nhật:下着
+
+=================================
+Tiếng việt:Khăn
+romaji:taoru
+Tiếng nhật:タオル
+
+=================================
+Tiếng việt:Quần dài
+romaji:zubon
+Tiếng nhật:ズボン
+
+=================================
+Tiếng việt:Da
+romaji:kawa
+Tiếng nhật:皮
+
+=================================
+Tiếng việt:Bông
+romaji:men/kotton
+Tiếng nhật:綿/コットン
+
+=================================
+Tiếng việt:Vải lụa
+romaji:shiruku / kinu
+Tiếng nhật:シルク/絹
+
+=================================
+Tiếng việt:Tổng hợp
+romaji:gousei
+Tiếng nhật:合成
+
+=================================
+Tiếng việt:Tôi không muốn
+romaji:irimasen
+Tiếng nhật:いりません
+
+=================================
+Tiếng việt:Tôi sẽ suy nghĩ về nó
+romaji:kangaemasu
+Tiếng nhật:考えます
+
+=================================
+Tiếng việt:Ví
+romaji:saifu
+Tiếng nhật:財布
+
+=================================
+Tiếng việt:Đồng hồ
+romaji:tokei
+Tiếng nhật:時計
+
+=================================
+Tiếng việt:Mắt kính
+romaji:megane
+Tiếng nhật:眼鏡/メガネ
+
+=================================
+Tiếng việt:Kính râm / Kính mát
+romaji:sangurasu
+Tiếng nhật:サングラス
+
+=================================
+Tiếng việt:Nhẫn
+romaji:yubiwa
+Tiếng nhật:指輪
+
+=================================
+Tiếng việt:Hoa tai
+romaji:iaringu
+Tiếng nhật:イヤリング
+
+=================================
+Tiếng việt:Vòng cổ
+romaji:nekkuresu
+Tiếng nhật:ネックレス
+
+=================================
+Tiếng việt:Vòng đeo tay
+romaji:buresuretto
+Tiếng nhật:ブレスレット
+
+=================================
+Tiếng việt:Máy ảnh
+romaji:kamera
+Tiếng nhật:カメラ
+
+=================================
+Tiếng việt:Máy vi tính
+romaji:pasokon
+Tiếng nhật:パソコン
+
+=================================
+Tiếng việt:Thiết bị gia dụng
+romaji:kaden
+Tiếng nhật:家電
+
+=================================
+Tiếng việt:Trái cây
+romaji:kudamono / furuutsu
+Tiếng nhật:果物/フルーツ
+
+=================================
+Tiếng việt:Chuối
+romaji:banana
+Tiếng nhật:バナナ
+
+=================================
+Tiếng việt:Táo
+romaji:ringo
+Tiếng nhật:りんご
+
+=================================
+Tiếng việt:Đu đủ
+romaji:papaiya
+Tiếng nhật:パパイヤ
+
+=================================
+Tiếng việt:Mận
+romaji:sumomo
+Tiếng nhật:すもも
+
+=================================
+Tiếng việt:Ổi
+romaji:guaba
+Tiếng nhật:グアバ
+
+=================================
+Tiếng việt:Vải thiều
+romaji:raichi
+Tiếng nhật:ライチ
+
+=================================
+Tiếng việt:Đào
+romaji:momo
+Tiếng nhật:桃/モモ
+
+=================================
+Tiếng việt:Lê
+romaji:nashi
+Tiếng nhật:梨
+
+=================================
+Tiếng việt:Dứa
+romaji:painappuru
+Tiếng nhật:パイナップル
+
+=================================
+Tiếng việt:Dâu
+romaji:ichigo
+Tiếng nhật:いちご
+
+=================================
+Tiếng việt:Nho
+romaji:budo
+Tiếng nhật:ぶどう
+
+=================================
+Tiếng việt:Dưa gang
+romaji:meron
+Tiếng nhật:メロン
+
+=================================
+Tiếng việt:Cam
+romaji:orenji
+Tiếng nhật:オレンジ
+
+=================================
+Tiếng việt:Quýt
+romaji:mikan
+Tiếng nhật:みかん
+
+=================================
+Tiếng việt:Cửa hàng hoa quả và rau xanh
+romaji:yao ya
+Tiếng nhật:八百屋
+
+=================================
+Tiếng việt:Tiệm bánh
+romaji:pan ya
+Tiếng nhật:パン屋
+
+=================================
+Tiếng việt:Giặt là
+romaji:kuriiningu ya
+Tiếng nhật:クリーニング屋
+
+=================================
+Tiếng việt:Cửa hàng giày
+romaji:kutsu ya
+Tiếng nhật:靴屋
+
+=================================
+Tiếng việt:Hiệu sách
+romaji:hon ya
+Tiếng nhật:本屋
+
+=================================
+Tiếng việt:Cửa hàng hoa
+romaji:hana ya
+Tiếng nhật:花屋
+
+=================================
+Tiếng việt:Cửa hàng đồ dùng rồi
+romaji:chukohinten　
+Tiếng nhật:中古品店
+
+=================================
+Tiếng việt:Bao nhiêu? (Hỏi giá tiền)
+romaji:ikura desuka
+Tiếng nhật:いくらですか
+
+=================================
+Tiếng việt:Giá
+romaji:kakaku/kingaku
+Tiếng nhật:価格/金額
+
+=================================
+Tiếng việt:Đắt
+romaji:takai
+Tiếng nhật:高い
+
+=================================
+Tiếng việt:Giá rẻ
+romaji:yasui
+Tiếng nhật:安い
+
+=================================
+Tiếng việt:Thanh toán tiền
+romaji:harau
+Tiếng nhật:払う/支払う
+
+=================================
+Tiếng việt:Thay đổi; tiền lẻ
+romaji:koukan
+Tiếng nhật:交換
+
+=================================
+Tiếng việt:Đồ lưu niệm
+romaji:omiyage
+Tiếng nhật:お土産
+
+=================================
+Tiếng việt:Gốm sứ
+romaji:touki
+Tiếng nhật:陶器
+
+=================================
+Tiếng việt:Mỹ phẩm
+romaji:keshouhin
+Tiếng nhật:化粧品
+
+=================================
+Tiếng việt:Nước hoa
+romaji:kousui
+Tiếng nhật:香水
+
+=================================
+Tiếng việt:Túi xách
+romaji:hando bakku
+Tiếng nhật:ハンドバッグ
+
+=================================
+Tiếng việt:Gốm
+romaji:touki/yakimono
+Tiếng nhật:陶器/焼き物
+
+=================================
+Tiếng việt:Búp bê Nhật
+romaji:nihon ningyou
+Tiếng nhật:日本人形
+
+=================================
+Tiếng việt:Kiếm Nhật
+romaji:nihon tou
+Tiếng nhật:日本刀
+
+=================================
+Tiếng việt:Đồ cổ Nhật
+romaji:nihon no kottouhin
+Tiếng nhật:日本の骨董品
+
+=================================
+Tiếng việt:Trà Nhật
+romaji:nihon cha
+Tiếng nhật:日本茶
+
+=================================
+Tiếng việt:Bộ ấm trà
+romaji:ocha setto
+Tiếng nhật:お茶セット
+
+=================================
+Tiếng việt:Áo Kimono (Áo truyền thống Nhật)
+romaji:kimono
+Tiếng nhật:着物
+
+=================================
+Tiếng việt:Tiền
+romaji:Okane
+Tiếng nhật:お金
+
+=================================
+Tiếng việt:Tiền mặt
+romaji:Genkin
+Tiếng nhật:現金
+
+=================================
+Tiếng việt:Thu đổi ngoại tệ
+romaji:Ryougae
+Tiếng nhật:両替
+
+=================================
+Tiếng việt:Vui lòng, Tôi muốn biên nhận (biên lai)
+romaji:Ryoushuusho o kudasai.
+Tiếng nhật:領収書をください。
+
+=================================
+Tiếng việt:Vui lòng, Tôi muốn hoàn lại tiền
+romaji:Haraimodoshi o onegai shimasu.
+Tiếng nhật:払い戻しをお願いします。
+
+=================================
+Tiếng việt:Vui lòng, Tôi muốn thay đổi cái khác / Tôi muốn tiền thừa
+romaji:Otsuri o kudasai.
+Tiếng nhật:お釣りをください。
+
+=================================
+Tiếng việt:Màu tối
+romaji:koi iro
+Tiếng nhật:濃い色
+
+=================================
+Tiếng việt:Màu sáng
+romaji:usui iro
+Tiếng nhật:薄い色
+
+=================================
+Tiếng việt:Đen
+romaji:kuro iro
+Tiếng nhật:黒色
+
+=================================
+Tiếng việt:Nâu
+romaji:cha iro
+Tiếng nhật:茶色
+
+=================================
+Tiếng việt:Xám
+romaji:hai iro
+Tiếng nhật:灰色
+
+=================================
+Tiếng việt:Đỏ
+romaji:aka iro
+Tiếng nhật:赤色
+
+=================================
+Tiếng việt:Xanh lá
+romaji:midori iro
+Tiếng nhật:緑色
+
+=================================
+Tiếng việt:Vàng
+romaji:ki iro
+Tiếng nhật:黄色
+
+=================================
+Tiếng việt:Xanh dương
+romaji:ao iro
+Tiếng nhật:青色
+
+=================================
+Tiếng việt:Hồng
+romaji:pinku iro/momo iro
+Tiếng nhật:ピンク色/桃色
+
+=================================
+Tiếng việt:Tím
+romaji:murasaki iro
+Tiếng nhật:紫色
+
+=================================
+Tiếng việt:Trắng
+romaji:shiro iro
+Tiếng nhật:白色
+
+=================================
+Tiếng việt:Cam
+romaji:orenji iro/shu iro
+Tiếng nhật:オレンジ色/朱色
+
+=================================
+Tiếng việt:Xanh dương đậm
+romaji:kon iro
+Tiếng nhật:紺色
+
+=================================
+Tiếng việt:Vàng (kim loại)
+romaji:kin iro
+Tiếng nhật:金色
+
+=================================
+Tiếng việt:Bạc (kim loại)
+romaji:gin iro
+Tiếng nhật:銀色
+
+=================================
+Tiếng việt:Aichi
+romaji:Aichi
+Tiếng nhật:愛知
+
+=================================
+Tiếng việt:Fukuoka
+romaji:Fukuoka
+Tiếng nhật:福岡
+
+=================================
+Tiếng việt:Fukushima
+romaji:Fukushima
+Tiếng nhật:福島
+
+=================================
+Tiếng việt:Gifu
+romaji:Gifu
+Tiếng nhật:岐阜
+
+=================================
+Tiếng việt:Gunma
+romaji:Gunma
+Tiếng nhật:群馬
+
+=================================
+Tiếng việt:Hiroshima
+romaji:Hiroshima
+Tiếng nhật:広島
+
+=================================
+Tiếng việt:Hokkaidō
+romaji:Hokkaidō
+Tiếng nhật:北海道
+
+=================================
+Tiếng việt:Ibaraki
+romaji:Ibaragi
+Tiếng nhật:茨城
+
+=================================
+Tiếng việt:Ishikawa
+romaji:Ishikawa
+Tiếng nhật:石川
+
+=================================
+Tiếng việt:Iwate
+romaji:Iwate
+Tiếng nhật:岩手
+
+=================================
+Tiếng việt:Kagawa
+romaji:Kagawa
+Tiếng nhật:香川
+
+=================================
+Tiếng việt:Kagoshima
+romaji:Kagoshima
+Tiếng nhật:鹿児島
+
+=================================
+Tiếng việt:Kanagawa
+romaji:Kanagawa
+Tiếng nhật:神奈川
+
+=================================
+Tiếng việt:Kochi
+romaji:Kōchi
+Tiếng nhật:高知
+
+=================================
+Tiếng việt:Kumamoto
+romaji:Kumamoto
+Tiếng nhật:熊本
+
+=================================
+Tiếng việt:Kyoto
+romaji:Kyoto
+Tiếng nhật:京都
+
+=================================
+Tiếng việt:Mie
+romaji:Mie
+Tiếng nhật:三重
+
+=================================
+Tiếng việt:Miyagi
+romaji:Miyagi
+Tiếng nhật:宮城
+
+=================================
+Tiếng việt:Miyazaki
+romaji:Miyazaki
+Tiếng nhật:宮崎
+
+=================================
+Tiếng việt:Nagano
+romaji:Nagano
+Tiếng nhật:長野
+
+=================================
+Tiếng việt:Nagasaki
+romaji:Nagasaki
+Tiếng nhật:長崎
+
+=================================
+Tiếng việt:Nara
+romaji:Nara
+Tiếng nhật:奈良
+
+=================================
+Tiếng việt:Niigata
+romaji:Niigata
+Tiếng nhật:新潟
+
+=================================
+Tiếng việt:Oita
+romaji:Ōita
+Tiếng nhật:大分
+
+=================================
+Tiếng việt:Okayama
+romaji:Okayama
+Tiếng nhật:岡山
+
+=================================
+Tiếng việt:Okinawa
+romaji:Okinawa
+Tiếng nhật:沖縄
+
+=================================
+Tiếng việt:Osaka
+romaji:Osaka
+Tiếng nhật:大阪
+
+=================================
+Tiếng việt:Saga
+romaji:Saga
+Tiếng nhật:佐賀
+
+=================================
+Tiếng việt:Saitama
+romaji:Saitama
+Tiếng nhật:埼玉
+
+=================================
+Tiếng việt:Shiga
+romaji:Shiga
+Tiếng nhật:滋賀
+
+=================================
+Tiếng việt:Shimane
+romaji:Shimane
+Tiếng nhật:島根
+
+=================================
+Tiếng việt:Shizuoka
+romaji:Shizuoka
+Tiếng nhật:静岡
+
+=================================
+Tiếng việt:Tochigi
+romaji:Tochigi
+Tiếng nhật:栃木
+
+=================================
+Tiếng việt:Tokushima
+romaji:Tokushima
+Tiếng nhật:徳島
+
+=================================
+Tiếng việt:Tokyo Metropolis
+romaji:Tokyo
+Tiếng nhật:東京
+
+=================================
+Tiếng việt:Tottori
+romaji:Tottori
+Tiếng nhật:鳥取
+
+=================================
+Tiếng việt:Toyama
+romaji:Toyama
+Tiếng nhật:富山
+
+=================================
+Tiếng việt:Wakayama
+romaji:Wakayama
+Tiếng nhật:和歌山
+
+=================================
+Tiếng việt:Yamagata
+romaji:Yamagata
+Tiếng nhật:山形
+
+=================================
+Tiếng việt:Yamaguchi
+romaji:Yamaguchi
+Tiếng nhật:山口
+
+=================================
+Tiếng việt:Yamanashi
+romaji:Yamanashi
+Tiếng nhật:山梨
+
+=================================
+Tiếng việt:Nhật Bản
+romaji:nihon
+Tiếng nhật:日本
+
+=================================
+Tiếng việt:Đài Loan
+romaji:taiwan
+Tiếng nhật:台湾
+
+=================================
+Tiếng việt:Hồng Kông
+romaji:honkon
+Tiếng nhật:香港
+
+=================================
+Tiếng việt:Triều Tiên
+romaji:kita chousen
+Tiếng nhật:北朝鮮
+
+=================================
+Tiếng việt:Hàn Quốc
+romaji:kankoku
+Tiếng nhật:韓国
+
+=================================
+Tiếng việt:Trung Quốc
+romaji:chuugoku
+Tiếng nhật:中国
+
+=================================
+Tiếng việt:Việt Nam
+romaji:betonamu
+Tiếng nhật:ベトナム
+
+=================================
+Tiếng việt:Thái Lan
+romaji:tai
+Tiếng nhật:タイ
+
+=================================
+Tiếng việt:Malaysia
+romaji:mareeshia
+Tiếng nhật:マレーシア
+
+=================================
+Tiếng việt:Singapore
+romaji:shingapooru
+Tiếng nhật:シンガポール
+
+=================================
+Tiếng việt:Philippines
+romaji:firipin
+Tiếng nhật:フィリピン
+
+=================================
+Tiếng việt:Indonesia
+romaji:indoneshia
+Tiếng nhật:インドネシア
+
+=================================
+Tiếng việt:Pakistan
+romaji:pakisutan
+Tiếng nhật:パキスタン
+
+=================================
+Tiếng việt:Nepal
+romaji:nepaaru
+Tiếng nhật:ネパール
+
+=================================
+Tiếng việt:Nga
+romaji:roshia
+Tiếng nhật:ロシア
+
+=================================
+Tiếng việt:Mỹ
+romaji:amerika
+Tiếng nhật:アメリカ
+
+=================================
+Tiếng việt:Canada
+romaji:kanada
+Tiếng nhật:カナダ
+
+=================================
+Tiếng việt:Mexico
+romaji:mekishiko
+Tiếng nhật:メキシコ
+
+=================================
+Tiếng việt:Anh
+romaji:igirisu
+Tiếng nhật:イギリス
+
+=================================
+Tiếng việt:Scotland
+romaji:sukottorando
+Tiếng nhật:スコットランド
+
+=================================
+Tiếng việt:Wales
+romaji:weeruzu
+Tiếng nhật:ウェールズ
+
+=================================
+Tiếng việt:Pháp
+romaji:furansu
+Tiếng nhật:フランス
+
+=================================
+Tiếng việt:Ý
+romaji:itaria
+Tiếng nhật:イタリア
+
+=================================
+Tiếng việt:Đức
+romaji:doitsu
+Tiếng nhật:ドイツ
+
+=================================
+Tiếng việt:Thụy Điển
+romaji:suweeden
+Tiếng nhật:スウェーデン
+
+=================================
+Tiếng việt:Phần Lan
+romaji:fhinrando
+Tiếng nhật:フィンランド
+
+=================================
+Tiếng việt:Na Uy
+romaji:noruweei
+Tiếng nhật:ノルウェー
+
+=================================
+Tiếng việt:Đan Mạch
+romaji:denmaaku
+Tiếng nhật:デンマーク
+
+=================================
+Tiếng việt:Hà Lan
+romaji:oranda
+Tiếng nhật:オランダ
+
+=================================
+Tiếng việt:Bồ Đào Nha
+romaji:porutogaru
+Tiếng nhật:ポートランド
+
+=================================
+Tiếng việt:Úc
+romaji:ousutoraria
+Tiếng nhật:オーストラリア
+
+=================================
+Tiếng việt:New Zealand
+romaji:nyuujiirando
+Tiếng nhật:ニュージーランド
+
+=================================
+Tiếng việt:Vườn Quốc gia Akan
+romaji:Akan kokuritsu kouen
+Tiếng nhật:阿寒国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Ashizuri - Uwaki
+romaji:Ashizuri-Uwaki kokuritsu kouen
+Tiếng nhật:足摺宇和海国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Aso
+romaji:Aso kokuritsu kouen
+Tiếng nhật:阿蘇国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Chichibu-Tama
+romaji:Chichibu-Tama kokuritsu kouen
+Tiếng nhật:秩父多摩国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Chubu-Sangaku / Nhật Bản
+romaji:Chubu-Sangaku kokuritsu kouen/ Nihon Alupusu
+Tiếng nhật:中部-山岳国立公園/日本アルプス
+
+=================================
+Tiếng việt:Vườn Quốc gia Daisen-Oki
+romaji:Daisen-Oki kokuritsu kouen
+Tiếng nhật:大山隠岐国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Daisetsuzan
+romaji:Daisetsuzan kokuritsu kouen
+Tiếng nhật:大雪山国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Fuji-Hakone-Izu
+romaji:Fuji-Hakone-Izu kokuritsu kouen
+Tiếng nhật:富士箱根-伊豆国立公園
+
+=================================
+Tiếng việt:Hiroshima - Shukkei-en Garden
+romaji:Hiroshima - Shukkei-en
+Tiếng nhật:広島縮景園
+
+=================================
+Tiếng việt:Biển nội địa Vườn quốc gia / Setonaikai
+romaji:Setonaikai kokuritsu kouen
+Tiếng nhật:瀬戸内海国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Ise-Shima
+romaji:Ise-Shima kokuritsu kouen
+Tiếng nhật:伊勢志摩国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Kirishima-Yaku
+romaji:Kirishima-Yaku kokuritsu kouen
+Tiếng nhật:霧島屋久国立公園
+
+=================================
+Tiếng việt:Matsushima Bay - Đền Zuiganji
+romaji:Matsushima wan - Zuiganji
+Tiếng nhật:松島湾-瑞巌寺
+
+=================================
+Tiếng việt:Núi Phú Sĩ (Fuji-san)
+romaji:Fujisan
+Tiếng nhật:富士山
+
+=================================
+Tiếng việt:Vườn Quốc gia Nabdai-Asahi
+romaji:Bandai-Asahi kokuritsu kouen
+Tiếng nhật:磐梯朝日国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Nikko
+romaji:Nikko kokuritsu kouen
+Tiếng nhật:日光国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Nikko - Đền Rinnoji
+romaji:Nikko kokuritsu kouen - Rinnoji
+Tiếng nhật:日光国立公園－輪王寺
+
+=================================
+Tiếng việt:Vườn Quốc gia Nikko - Toshogu
+romaji:Nikko kokuritsu kouen - Toshogu jinjya
+Tiếng nhật:日光国立公園－東照宮神社
+
+=================================
+Tiếng việt:Vườn Quốc gia Okayama - Koraku-en
+romaji:Okayama - Koraku
+Tiếng nhật:岡山後楽園
+
+=================================
+Tiếng việt:Vườn Quốc gia Saikai
+romaji:Saikai kokuritsu kouen
+Tiếng nhật:西海国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Shikotsu-Toya
+romaji:Shikotsu-Toya kokuritsu kouen
+Tiếng nhật:支笏洞爺国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Shiretoko
+romaji:Shiretoko kokuritsu kouen
+Tiếng nhật:知床国立公園
+
+=================================
+Tiếng việt:Takayama - Kusakabe Heritage House (Kusakabe Mingei-kan)
+romaji:Takayama - Kusakabe Kokuhou mingeikan (Kusakabe Mingei-kan)
+Tiếng nhật:高山日下部国宝民芸館（日下部民芸館）
+
+=================================
+Tiếng việt:Vườn Quốc gia Towada-Hachimantai
+romaji:Towada-Hachimantai kokuritsu kouen
+Tiếng nhật:十和田八幡平国立公園
+
+=================================
+Tiếng việt:Tsuwano
+romaji:Tsuwano
+Tiếng nhật:津和野
+
+=================================
+Tiếng việt:Vườn Quốc gia Unzen-Amakusa
+romaji:Unzen-Amakusa kokuritsu kouen
+Tiếng nhật:雲仙天草国立公園
+
+=================================
+Tiếng việt:Vườn Quốc gia Yoshino-Kumano
+romaji:Yoshino-Kumano kokuritsu kouen
+Tiếng nhật:吉野熊野国立公園
+
+=================================
+Tiếng việt:Mấy giờ là mở cửa?
+romaji:nanji ni akimasuka
+Tiếng nhật:何時に開きますか
+
+=================================
+Tiếng việt:Mấy giờ là đóng cửa?
+romaji:nanji ni shimarimasuka
+Tiếng nhật:何時に閉まりますか
+
+=================================
+Tiếng việt:Tôi có phải trả tiền để được vào trong?
+romaji:nyujyouryou wa irimasuka
+Tiếng nhật:入場料はいりますか
+
+=================================
+Tiếng việt:Tôi có thể chụp ảnh?
+romaji:shashin wo tottemo iidesuka
+Tiếng nhật:写真を撮ってもいいですか
+
+=================================
+Tiếng việt:Có bao nhiêu người trong gia đình bạn ?
+romaji:nannin kazoku desu ka
+Tiếng nhật:何人家族ですか
+
+=================================
+Tiếng việt:Bạn có….?
+romaji:anata wa ....ga imasuka
+Tiếng nhật:あなたは.....がいますか
+
+=================================
+Tiếng việt:Đây là …. của tôi
+romaji:kore wa watashino…..desu
+Tiếng nhật:これは私の......です
+
+=================================
+Tiếng việt:Em (anh) trai
+romaji:kyoudai
+Tiếng nhật:兄弟
+
+=================================
+Tiếng việt:Em (chị ) gái
+romaji:shimai
+Tiếng nhật:姉妹
+
+=================================
+Tiếng việt:Mẹ
+romaji:hahaoya/okaasan
+Tiếng nhật:母親/お母さん
+
+=================================
+Tiếng việt:Bố
+romaji:chichioya/otousan
+Tiếng nhật:父親/お父さん
+
+=================================
+Tiếng việt:Con trai
+romaji:musuko
+Tiếng nhật:息子
+
+=================================
+Tiếng việt:Con gái
+romaji:musume
+Tiếng nhật:娘
+
+=================================
+Tiếng việt:Cháu trai
+romaji:mago(musuko)
+Tiếng nhật:孫(息子)
+
+=================================
+Tiếng việt:Cháu gái
+romaji:mago(musume)
+Tiếng nhật:孫(娘)
+
+=================================
+Tiếng việt:Bà (nội; ngoại)
+romaji:sobo/obaasan
+Tiếng nhật:祖母/おばあさん
+
+=================================
+Tiếng việt:Ông (nội; ngoại)
+romaji:sofu/ojiisan
+Tiếng nhật:祖父/おじいさん
+
+=================================
+Tiếng việt:Bác; chú; cậu
+romaji:oji
+Tiếng nhật:叔父
+
+=================================
+Tiếng việt:Cô ; dì; thím
+romaji:oba
+Tiếng nhật:叔母
+
+=================================
+Tiếng việt:Chồng
+romaji:otto
+Tiếng nhật:夫
+
+=================================
+Tiếng việt:Vợ
+romaji:tsuma
+Tiếng nhật:妻
+
+=================================
+Tiếng việt:Bạn trai
+romaji:kareshi
+Tiếng nhật:彼氏
+
+=================================
+Tiếng việt:Bạn gái
+romaji:kanojyo
+Tiếng nhật:彼女
+
+=================================
+Tiếng việt:Người bạn
+romaji:tomodachi
+Tiếng nhật:友達
+
+=================================
+Tiếng việt:Anh trai
+romaji:Ani
+Tiếng nhật:兄
+
+=================================
+Tiếng việt:Em trai
+romaji:Otouto
+Tiếng nhật:弟
+
+=================================
+Tiếng việt:Chị gái
+romaji:Ane
+Tiếng nhật:姉
+
+=================================
+Tiếng việt:Em gái
+romaji:Imouto
+Tiếng nhật:妹
+
+=================================
+Tiếng việt:Cháu trai
+romaji:Oi
+Tiếng nhật:おい
+
+=================================
+Tiếng việt:Cháu gái
+romaji:Mei
+Tiếng nhật:めい
+
+=================================
+Tiếng việt:Họ hàng
+romaji:Shin seki
+Tiếng nhật:親せき
+
+=================================
+Tiếng việt:Bố mẹ
+romaji:Ryoushin
+Tiếng nhật:両親
+
+=================================
+Tiếng việt:Anh em họ
+romaji:Itoko
+Tiếng nhật:いとこ
+
+=================================
+Tiếng việt:Con nuôi
+romaji:Youshi
+Tiếng nhật:養子
+
+=================================
+Tiếng việt:Con riêng
+romaji:Giri no kodomo
+Tiếng nhật:義理の子ども
+
+=================================
+Tiếng việt:Cha mẹ kế
+romaji:Giri no ryoushin
+Tiếng nhật:義理の両親
+
+=================================
+Tiếng việt:Con nuôi
+romaji:Satogo
+Tiếng nhật:里子
+
+=================================
+Tiếng việt:Cha mẹ nuôi
+romaji:Satooya
+Tiếng nhật:里親
+
+=================================
+Tiếng việt:Chồng chưa cưới
+romaji:Kon yaku sha
+Tiếng nhật:婚約者
+
+=================================
+Tiếng việt:Đối tác
+romaji:Paatonaa
+Tiếng nhật:パートナー
+
+=================================
+Tiếng việt:Tôi còn độc thân
+romaji:watashi wa dokushin desu
+Tiếng nhật:私は独身です
+
+=================================
+Tiếng việt:Bạn có bạn gái chưa?
+romaji:kanojyo wa imasuka
+Tiếng nhật:彼女はいますか
+
+=================================
+Tiếng việt:Bán có bạn trai chưa?
+romaji:kareshi wa imasuka
+Tiếng nhật:彼氏はいますか
+
+=================================
+Tiếng việt:Tôi đã có bạn gái
+romaji:kanojyo ga imasu
+Tiếng nhật:彼女がいます
+
+=================================
+Tiếng việt:Tôi ở đây với bạn trai của tôi
+romaji:watashi wa kareshi to koko ni imasu
+Tiếng nhật:私は彼氏とここにいます
+
+=================================
+Tiếng việt:Bạn đang độc thân?
+romaji:dokushin desuka
+Tiếng nhật:独身ですか
+
+=================================
+Tiếng việt:Bạn đã kết hôn?
+romaji:kekkon shitemasuka
+Tiếng nhật:結婚してますか
+
+=================================
+Tiếng việt:Tôi đã kết hôn
+romaji:kekkon shitemasu
+Tiếng nhật:結婚してます
+
+=================================
+Tiếng việt:Bạn có muốn làm điều gì đó cùng nhau không?
+romaji:watashi to nanika shimasenka
+Tiếng nhật:私と何かしませんか
+
+=================================
+Tiếng việt:Bạn có muốn đi dạo với tôi không?
+romaji:watashi to sannponi ikimasenka
+Tiếng nhật:私と散歩に行きませんか
+
+=================================
+Tiếng việt:Bán có muốn xem phim không?
+romaji:eigga wo mimasenka
+Tiếng nhật:映画を見ませんか
+
+=================================
+Tiếng việt:Bạn có rãnh ngày mai không?
+romaji:ashita/asu wa aitemasuka
+Tiếng nhật:明日は空いてますか
+
+=================================
+Tiếng việt:Ngày mai tôi rãnh
+romaji:ashita/asu wa aitemasu
+Tiếng nhật:明日は空いてます
+
+=================================
+Tiếng việt:Tôi có thể mua cho bạn một thức uống?
+romaji:dorinku wo ogorasete kuremasuka
+Tiếng nhật:ドリンクをおごらせてくれますか
+
+=================================
+Tiếng việt:Bạn uống gì?
+romaji:nani wo nomimasuka
+Tiếng nhật:何を飲みますか
+
+=================================
+Tiếng việt:Tôi sẽ gặp lại bạn?
+romaji:mata anatani aemasuka
+Tiếng nhật:またあなたに会えますか
+
+=================================
+Tiếng việt:Khi nào chúng ta có thể gặp lại nhau?
+romaji:kondo wa itsu aemasuka
+Tiếng nhật:今度はいつ会えますか
+
+=================================
+Tiếng việt:Bạn có phiền nếu tôi ngồi ở đây? (Làm quen một người nào đó)
+romaji:koko ni suwattemo iidesuka
+Tiếng nhật:ここに座ってもいいですか
+
+=================================
+Tiếng việt:Tôi thích bạn rất nhiều
+romaji:watashi wa anata ga daisuki desu
+Tiếng nhật:私はあなたが大好きです
+
+=================================
+Tiếng việt:Tôi yêu bạn
+romaji:watashi wa anata wo aishitemasu
+Tiếng nhật:私はあなたを愛してます
+
+=================================
+Tiếng việt:Bạn rất dễ thương
+romaji:anata wa totemo kawaii desu
+Tiếng nhật:あなたはとても可愛いです
+
+=================================
+Tiếng việt:Bạn rất xinh đẹp
+romaji:anata wa totemo utsukushii desu
+Tiếng nhật:あなたはとても美しいです
+
+=================================
+Tiếng việt:Bạn thật là tuyệt
+romaji:anata wa subarashii desu
+Tiếng nhật:あなたは素晴らしいです
+
+=================================
+Tiếng việt:Tôi có thể gọi cho bạn?
+romaji:dennwa wo shitemo iidesuka
+Tiếng nhật:電話をしてもいいですか
+
+=================================
+Tiếng việt:Bạn có bao cao su chưa?
+romaji:kondomu wo mottemasuka
+Tiếng nhật:コンドームを持ってますか
+
+=================================
+Tiếng việt:Tôi đã có bao cao su
+romaji:watashi wa kondomu wo mottemasu
+Tiếng nhật:私はコンドームを持ってます
+
+=================================
+Tiếng việt:Tôi sẽ không làm mà không có bao cao su
+romaji:kondoomu nashidewa dekimasen
+Tiếng nhật:コンドーム無しでは出来ません
+
+=================================
+Tiếng việt:Bạn sẽ đi dạo với tôi chứ?
+romaji:deeto shitekuremasenka
+Tiếng nhật:デートしてくれませんか
+
+=================================
+Tiếng việt:Bạn sẽ lấy tôi chứ?
+romaji:kekkon shitekuremasenka
+Tiếng nhật:結婚してくれませんか
+
+=================================
+Tiếng việt:Đừng gọi cho tôi
+romaji:denwa shitekonaide
+Tiếng nhật:電話してこないで
+
+=================================
+Tiếng việt:Bạn sẽ gặp được người nào đó?
+romaji:tsukiatte iruhito ha imasuka
+Tiếng nhật:付き合っている人はいますか
+
+=================================
+Tiếng việt:Tôi không nghĩ nó có thể xảy ra
+romaji:mou muridato omoimasu
+Tiếng nhật:もう無理だと思います
+
+=================================
+Tiếng việt:Tôi không muốn gặp lại bạn nữa
+romaji:Mou nido to aitakunai.
+Tiếng nhật:もう二度と会いたくない。
+
+=================================
+Tiếng việt:Anh ấy là ai?
+romaji:Kare wa dare?
+Tiếng nhật:彼は誰？
+
+=================================
+Tiếng việt:Cô ấy là ai?
+romaji:Kanojo wa dare?
+Tiếng nhật:彼女は誰？
+
+=================================
+Tiếng việt:Anh ấy chỉ là một người bạn
+romaji:Kare wa tada no tomodachi desu.
+Tiếng nhật:彼はただの友達です。
+
+=================================
+Tiếng việt:Cô ấy chỉ là một người bạn
+romaji:Kanojo wa tada no tomodachi desu.
+Tiếng nhật:彼女はただの友達です。
+
+=================================
+Tiếng việt:Chúng ta có thể làm bạn?
+romaji:Tomodachi de imashou.
+Tiếng nhật:友達でいましょう。
+
+=================================
+Tiếng việt:Đây là một trường hợp khẩn cấp
+romaji:kinkyu desu
+Tiếng nhật:緊急です
+
+=================================
+Tiếng việt:Tôi bị mất hộ chiếu
+romaji:watashi no pasupooto wo nakushimashita
+Tiếng nhật:私のパスポートを失くしました
+
+=================================
+Tiếng việt:Tôi bị mất ví tiền
+romaji:watashi no saifu wo nakushimashita
+Tiếng nhật:私の財布を失くしました
+
+=================================
+Tiếng việt:Đồn cảnh sát gần nhất ở đâu?
+romaji:ichiban chikai keisatsusho wa dokodesuka
+Tiếng nhật:一番近い警察署はどこですか
+
+=================================
+Tiếng việt:Đại sứ quán…. ở đâu?
+romaji:…taishikan wa doko desuka
+Tiếng nhật:…..大使館はどこですか
+
+=================================
+Tiếng việt:Cứu!
+romaji:tasukete
+Tiếng nhật:助けて
+
+=================================
+Tiếng việt:Bệnh viện ở đâu?
+romaji:byouin wa doko desuka
+Tiếng nhật:病院はどこですか
+
+=================================
+Tiếng việt:Tôi cần một bác sĩ
+romaji:isha ga iru/hitsuyou desu
+Tiếng nhật:医者がいります
+
+=================================
+Tiếng việt:Làm ơn gọi bác sĩ!
+romaji:isha wo yonde
+Tiếng nhật:医者を呼んで
+
+=================================
+Tiếng việt:Làm ơn gọi xe cứu thương!
+romaji:kyuukyuusha wo yonde
+Tiếng nhật:救急車を呼んで
+
+=================================
+Tiếng việt:Làm ơn giúp tôi được không?
+romaji:tasuketekuremasenka/tetsudattekuremasenka
+Tiếng nhật:助けてくれませんか/手伝ってくれませんか
+
+=================================
+Tiếng việt:Xe cứu thương
+romaji:kyuukyuusha
+Tiếng nhật:救急車
+
+=================================
+Tiếng việt:Bệnh viện
+romaji:byouin
+Tiếng nhật:病院
+
+=================================
+Tiếng việt:Khẩn cấp
+romaji:kyuukyuu
+Tiếng nhật:緊急
+
+=================================
+Tiếng việt:Cháy!
+romaji:kaji da
+Tiếng nhật:火事だ
+
+=================================
+Tiếng việt:Tôi bị hết ga/xăng
+romaji:gasu/gasorin ga naidesu
+Tiếng nhật:ガス/ガソリンが無いです
+
+=================================
+Tiếng việt:Tôi bị lạc, làm ơn giúp!
+romaji:michini mayotteirunode tasuketekudasai
+Tiếng nhật:道に迷っているので助けてください
+
+=================================
+Tiếng việt:Cảnh sát
+romaji:keisatsu
+Tiếng nhật:警察
+
+=================================
+Tiếng việt:Đồn cảnh sát
+romaji:keisatsusho
+Tiếng nhật:警察署
+
+=================================
+Tiếng việt:Tôi bị trấn lột
+romaji:watashi wa goutou ni aimashita
+Tiếng nhật:私は強盗に遭いました
+
+=================================
+Tiếng việt:Tôi bị mất máy ảnh
+romaji:kamera wo nakushimashita
+Tiếng nhật:カメラを失くしました
+
+=================================
+Tiếng việt:Túi của tôi đã bị ăn cắp
+romaji:watashi no kaban ga nusumaremashita
+Tiếng nhật:私の鞄が盗まれました
+
+=================================
+Tiếng việt:Tôi bị mất túi!
+romaji:watashino kaban wo nakushimashita
+Tiếng nhật:私の鞄を失くしました
+
+=================================
+Tiếng việt:Điện thoại của tôi đã bị ăn cắp
+romaji:watashino denwa ga nusumaremashita
+Tiếng nhật:私の電話が盗まれました
+
+=================================
+Tiếng việt:Trộm/Cướp
+romaji:dorobou
+Tiếng nhật:泥棒
+
+=================================
+Tiếng việt:Dừng lại !
+romaji:tomare
+Tiếng nhật:止まれ
+
+=================================
+Tiếng việt:Tôi xin lỗi
+romaji:ayamarimasu
+Tiếng nhật:謝ります
+
+=================================
+Tiếng việt:Tôi có bảo hiểm du lịch
+romaji:watashi wa ryokou hoken ni kanyuu shiteimasu
+Tiếng nhật:私は旅行保険に加入してます
+
+=================================
+Tiếng việt:Tôi có thể sử dụng điện thoại của bạn được không?
+romaji:anatano denwa wo karitemo iidesuka
+Tiếng nhật:あなたの電話を借りてもいいですか
+
+=================================
+Tiếng việt:Tôi cần phải gọi ...
+romaji:watashi wa dennwa wo shinakerebaikemasen
+Tiếng nhật:私は電話をしなければいけません
+
+=================================
+Tiếng việt:Báo án người mất tích
+romaji:yukuefumeisha wo todokedesu
+Tiếng nhật:行方不明者を届け出る
+
+=================================
+Tiếng việt:Con tôi đã mất tích
+romaji:wtashino kodomo ga yukuefumei desu
+Tiếng nhật:私の子供が行方不明です
+
+=================================
+Tiếng việt:Vợ tôi bị mất tích
+romaji:watashino tsuma ga yukuefumei desu
+Tiếng nhật:私の妻が行方不明です
+
+=================================
+Tiếng việt:Chồng tôi bị mất tích
+romaji:watashino otto ga yukuefumei desu
+Tiếng nhật:私の夫が行方不明です
+
+=================================
+Tiếng việt:Tôi xin lỗi
+romaji:gomennasai
+Tiếng nhật:ごめんなさい
+
+=================================
+Tiếng việt:Tôi đã không làm điều đó
+romaji:watashi wa shiteinai
+Tiếng nhật:私はしてません
+
+=================================
+Tiếng việt:Làm ơn tôi có thể có một luật sư nói tiếng Anh không?
+romaji:eigo ga hanaseru bengoshi wo onegai dekimasuka
+Tiếng nhật:英語が話せる弁護士をお願いできますか
+
+=================================
+Tiếng việt:Có ai ở đây có thể nói tiếng Anh không?
+romaji:kokoniwa eigo wo hanaseruhito ga imasuka
+Tiếng nhật:ここには英語を話せる人がいますか
+
+=================================
+Tiếng việt:Bệnh viện gần nhất ở đâu?
+romaji:ichiban chikai byouin wa dokodesuka
+Tiếng nhật:一番近い病院はどこですか
+
+=================================
+Tiếng việt:Tiệm thuốc tây
+romaji:yakkyoku
+Tiếng nhật:薬局
+
+=================================
+Tiếng việt:Nha sĩ
+romaji:shikai
+Tiếng nhật:歯科医
+
+=================================
+Tiếng việt:Bác sĩ
+romaji:isha/ishi
+Tiếng nhật:医者/医師
+
+=================================
+Tiếng việt:Trung tâm y tế
+romaji:medikaru sentaa
+Tiếng nhật:メディカルセンター
+
+=================================
+Tiếng việt:Chuyên viên đo mắt
+romaji:gankai
+Tiếng nhật:眼科医
+
+=================================
+Tiếng việt:Tôi cảm thấy không khỏe
+romaji:watashi wa kibun ga yokuarimasen
+Tiếng nhật:私は気分がよくありません
+
+=================================
+Tiếng việt:Tôi đang bị ốm
+romaji:watshi wa byouki desu
+Tiếng nhật:私は病気です
+
+=================================
+Tiếng việt:Tôi bị cảm lạnh
+romaji:kaze wo hiitemasu
+Tiếng nhật:風邪を引いてます
+
+=================================
+Tiếng việt:Đau đầu
+romaji:zutsuu
+Tiếng nhật:頭痛
+
+=================================
+Tiếng việt:Đau dạ dày
+romaji:fukutsuu
+Tiếng nhật:腹痛
+
+=================================
+Tiếng việt:Đau lưng
+romaji:youtsuu
+Tiếng nhật:腰痛
+
+=================================
+Tiếng việt:Bệnh hen suyễn
+romaji:zensoku
+Tiếng nhật:喘息
+
+=================================
+Tiếng việt:Bệnh ho
+romaji:seki
+Tiếng nhật:咳
+
+=================================
+Tiếng việt:Bệnh táo bón
+romaji:benpi
+Tiếng nhật:便秘
+
+=================================
+Tiếng việt:Bệnh tiểu đường
+romaji:tounyou
+Tiếng nhật:糖尿
+
+=================================
+Tiếng việt:Tiêu chảy
+romaji:geri
+Tiếng nhật:下痢
+
+=================================
+Tiếng việt:Sốt
+romaji:netsu
+Tiếng nhật:熱
+
+=================================
+Tiếng việt:Cảm cúm
+romaji:infuruenza
+Tiếng nhật:インフルエンザ
+
+=================================
+Tiếng việt:Đau họng
+romaji:nodono itami
+Tiếng nhật:喉の痛み
+
+=================================
+Tiếng việt:Ngộ độc thực phẩm
+romaji:shokuchuudoku
+Tiếng nhật:食中毒
+
+=================================
+Tiếng việt:Dị ứng
+romaji:arerugii
+Tiếng nhật:アレルギー
+
+=================================
+Tiếng việt:Bạn có Paracetamol không?
+romaji:anata wa itamidome/chinntsu genetsuzai wo motteimasuka
+Tiếng nhật:あなたは痛み止め/鎮痛解熱剤を持ってますか
+
+=================================
+Tiếng việt:Tôi đang lên cơn sốt
+romaji:watashi wa netsuga arimasu
+Tiếng nhật:私は熱があります
+
+=================================
+Tiếng việt:Bị nôn
+romaji:outo
+Tiếng nhật:嘔吐
+
+=================================
+Tiếng việt:Tôi cảm thấy chóng mặt
+romaji:memai ga suru
+Tiếng nhật:めまいがする
+
+=================================
+Tiếng việt:Yếu
+romaji:yowai
+Tiếng nhật:弱い
+
+=================================
+Tiếng việt:Lo lắng
+romaji:fuan
+Tiếng nhật:不安
+
+=================================
+Tiếng việt:Làm cho nôn
+romaji:hakike ga suru
+Tiếng nhật:吐き気がする
+
+=================================
+Tiếng việt:Cảm thấy run / lạnh
+romaji:furueru
+Tiếng nhật:震える
+
+=================================
+Tiếng việt:Tệ hơn
+romaji:yori warui
+Tiếng nhật:より悪い
+
+=================================
+Tiếng việt:Tốt hơn
+romaji:yori yoi
+Tiếng nhật:より良い
+
+=================================
+Tiếng việt:Nó đau đây
+romaji:koko ga itai
+Tiếng nhật:ここが痛い
+
+=================================
+Tiếng việt:Tôi không thể ngủ
+romaji:nemurenai
+Tiếng nhật:眠れない
+
+=================================
+Tiếng việt:Tôi đã ngưng dùng thuốc của tôi
+romaji:watashino kusuri ga nakunarimashita
+Tiếng nhật:私の薬が無くなりました
+
+=================================
+Tiếng việt:Đây là thuốc thường dùng của tôi
+romaji:kore ga watashino itsumono kusuri desu
+Tiếng nhật:これが私のいつもの薬です
+
+=================================
+Tiếng việt:Tôi cần một bác sĩ có thể nói tiếng anh
+romaji:eigo wo hanaseru ishaga hituyou desu
+Tiếng nhật:英語を話せる医者が必要です
+
+=================================
+Tiếng việt:Tôi đã tiêm vắc xin
+romaji:watashi wa yobousesshu wo uketemasu
+Tiếng nhật:私は予防接種を受けてます
+
+=================================
+Tiếng việt:Tôi có bảo hiểm du lịch
+romaji:watashi wa ryokou hoken ni kanyuu shiteimasu
+Tiếng nhật:私は旅行保険に加入しています
+
+=================================
+Tiếng việt:Xe cứu thương
+romaji:kyuukyuusha
+Tiếng nhật:救急車
+
+=================================
+Tiếng việt:Phòng khám
+romaji:kurinikku
+Tiếng nhật:クリニック
+
+=================================
+Tiếng việt:Y tá
+romaji:kangoshi
+Tiếng nhật:看護師
+
+=================================
+Tiếng việt:Bác sĩ phẫu thuật
+romaji:gekai
+Tiếng nhật:外科医
+
+=================================
+Tiếng việt:Huyết áp
+romaji:ketsuatsu
+Tiếng nhật:血圧
+
+=================================
+Tiếng việt:Nhiệt độ
+romaji:taion
+Tiếng nhật:体温
+
+=================================
+Tiếng việt:Tiêm
+romaji:chuusha
+Tiếng nhật:注射
+
+=================================
+Tiếng việt:Hoạt động
+romaji:shujyutsu
+Tiếng nhật:手術
+
+=================================
+Tiếng việt:Chổ trật xương
+romaji:nenza
+Tiếng nhật:捻挫
+
+=================================
+Tiếng việt:Tôi nghĩ nó đã bị vỡ (xương)
+romaji:kossetsu shiteruto omoimasu
+Tiếng nhật:骨折してると思います
+
+=================================
+Tiếng việt:Tôi bị dị ứng da
+romaji:hifuno arerugi ga arimasu
+Tiếng nhật:私は皮膚のアレルギーがあります
+
+=================================
+Tiếng việt:Thuốc Antihistamines
+romaji:kou hisutamin/kayumi dome
+Tiếng nhật:抗ヒスタミン/痒み止め
+
+=================================
+Tiếng việt:Vụ nổ ga xe buýt; người hướng dẫn xe buýt khó chịu
+romaji:Basu gasu bakuhatsu busu basu gaido.
+Tiếng nhật:バスガス爆発ブスバスガイド
+
+=================================
+Tiếng việt:Văn phòng phê chuẩn bằng sáng chế đặc biệt Tokyo
+romaji:Tōkyō Tokkyo Kyokakyoku.
+Tiếng nhật:東京特許許可局
+
+=================================
+Tiếng việt:Bột sống; gạo thô; trứng sống
+romaji:Namamugi namagome namatamago.
+Tiếng nhật:生麦生米生卵
+
+=================================
+Tiếng việt:Thầy tăng đã vẽ bức tranh của một vị sư tăng rất đẹp trên màn che có thể gấp lại được.
+romaji:Bōzu ga byōbu ni jōzu ni bōzu no e wo kaita.
+Tiếng nhật:坊主が屏風に上手に坊主の絵を描いた
+
+=================================
+Tiếng việt:Ở phía sau sân có hai con gà và phía trước sân cũng có hai con gà.
+romaji:Uraniwa niwa niwa, niwa niwa niwa, niwatori ari.
+Tiếng nhật:裏庭には二羽、庭には二羽、鶏あり
+
+=================================
+Tiếng việt:Một người bán rao dưa hấu đến để bán dưa nhưng không có quả dưa nào được bán; O ; giọng của người bán rao dưa hấu vẫn tiếp tục đằng sau; bán dưa hấu.
+romaji:Uriuri ga uri urini kite uri urezu uri uri kaeru uriuri no koe.
+Tiếng nhật:瓜売りが瓜売りに来て瓜売れず売り売りかえる瓜売りの声
